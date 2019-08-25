@@ -4,8 +4,32 @@
     
     <url>
     
+      <loc>https://jaharris.github.io/publication/2018_handbook/</loc>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jaharris.github.io/publication/2019_glossa_sprout/</loc>
       <lastmod>2019-06-15T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaharris.github.io/publication/2018_cls_russian/</loc>
+      <lastmod>2019-06-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaharris.github.io/publication/2018_sluicing/</loc>
+      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -150,30 +174,6 @@
     
       <loc>https://jaharris.github.io/talk/2019_icphs_pupil/</loc>
       <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaharris.github.io/publication/2018_handbook/</loc>
-      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaharris.github.io/publication/2018_sluicing/</loc>
-      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jaharris.github.io/publication/2018_cls_russian/</loc>
-      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -973,7 +973,7 @@
     <url>
     
       <loc>https://jaharris.github.io/publication_types/1/</loc>
-      <lastmod>2019-04-11T00:00:00-04:00</lastmod>
+      <lastmod>2019-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1000,7 +1000,7 @@
     <url>
     
       <loc>https://jaharris.github.io/publication_types/6/</loc>
-      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1177,6 +1177,15 @@
     
     <url>
     
+      <loc>https://jaharris.github.io/tags/conjunction/</loc>
+      <lastmod>2019-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jaharris.github.io/tags/contrast/</loc>
       <lastmod>2019-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -1286,7 +1295,7 @@
     <url>
     
       <loc>https://jaharris.github.io/tags/ellipsis/</loc>
-      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2019-06-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1295,7 +1304,7 @@
     <url>
     
       <loc>https://jaharris.github.io/tags/ellipsis/</loc>
-      <lastmod>2019-06-15T00:00:00-04:00</lastmod>
+      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1305,6 +1314,15 @@
     
       <loc>https://jaharris.github.io/tags/event-processing/</loc>
       <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jaharris.github.io/tags/events/</loc>
+      <lastmod>2019-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1600,6 +1618,15 @@
     
     <url>
     
+      <loc>https://jaharris.github.io/tags/phonemic-restoration/</loc>
+      <lastmod>2019-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jaharris.github.io/tags/pied-piping/</loc>
       <lastmod>2011-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -1664,7 +1691,7 @@
     <url>
     
       <loc>https://jaharris.github.io/tags/prosody/</loc>
-      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2019-04-11T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1682,7 +1709,7 @@
     <url>
     
       <loc>https://jaharris.github.io/publication_types/</loc>
-      <lastmod>2019-04-11T00:00:00-04:00</lastmod>
+      <lastmod>2019-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1691,7 +1718,7 @@
     <url>
     
       <loc>https://jaharris.github.io/tags/pupillometry/</loc>
-      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2019-04-11T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1754,7 +1781,7 @@
     <url>
     
       <loc>https://jaharris.github.io/tags/relative-clause/</loc>
-      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2019-04-11T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1790,7 +1817,7 @@
     <url>
     
       <loc>https://jaharris.github.io/tags/russian/</loc>
-      <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2019-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://jaharris.github.io/tags/prosody/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Investigating sound and structure in concert: A pupillometry study of relative clause attachment</title>
+      <link>https://jaharris.github.io/publication/2019_cogsci/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://jaharris.github.io/publication/2019_cogsci/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effect of partial quotation and transparent free relatives on perspective shift</title>
