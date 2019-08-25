@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alignment on Jesse A. Harris</title>
+    <link>https://jaharris.github.io/tags/alignment/</link>
+    <description>Recent content in Alignment on Jesse A. Harris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jaharris.github.io/tags/alignment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Online closure mismatches between prosody and syntax: A pupillometry study</title>
+      <link>https://jaharris.github.io/talk/2019_epc_pupil/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2019_epc_pupil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using pupillometry to assess prosodic alignment in language comprehension</title>
+      <link>https://jaharris.github.io/talk/2019_icphs_pupil/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2019_icphs_pupil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

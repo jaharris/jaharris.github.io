@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Correlatives on Jesse A. Harris</title>
+    <link>https://jaharris.github.io/tags/correlatives/</link>
+    <description>Recent content in Correlatives on Jesse A. Harris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jaharris.github.io/tags/correlatives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thinking ahead has its limits: Structural prediction with correlative and quantificational both</title>
+      <link>https://jaharris.github.io/talk/2019_cuny_poster_both/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2019_cuny_poster_both/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlative adverbs mark not only scope but also contrast: Corpus and eye tracking data</title>
+      <link>https://jaharris.github.io/talk/2018_cuny_talk/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2018_cuny_talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

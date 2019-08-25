@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corpora on Jesse A. Harris</title>
+    <link>https://jaharris.github.io/tags/corpora/</link>
+    <description>Recent content in Corpora on Jesse A. Harris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jaharris.github.io/tags/corpora/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Correlative adverbs mark not only scope but also contrast: Corpus and eye tracking data</title>
+      <link>https://jaharris.github.io/talk/2018_cuny_talk/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2018_cuny_talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

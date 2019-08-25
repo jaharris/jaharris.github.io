@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual world on Jesse A. Harris</title>
+    <link>https://jaharris.github.io/tags/visual-world/</link>
+    <description>Recent content in Visual world on Jesse A. Harris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jaharris.github.io/tags/visual-world/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Listeners’ beliefs about the speaker and adaptation to the deviant use of prosody</title>
+      <link>https://jaharris.github.io/talk/2019_cuny_poster_beliefs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2019_cuny_poster_beliefs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prosody-meaning mismatches in PP ambiguity: Incremental processing with pupillometry</title>
+      <link>https://jaharris.github.io/talk/2019_cuny_poster_pupil/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2019_cuny_poster_pupil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cue reliability affects anticipatory use of prosody in processing globally ambiguous sentences.</title>
+      <link>https://jaharris.github.io/talk/2018_cuny_talk2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2018_cuny_talk2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive processing and reliability in the influence of prosody in L2 structural analysis</title>
+      <link>https://jaharris.github.io/talk/2018_cuny_poster2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2018_cuny_poster2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

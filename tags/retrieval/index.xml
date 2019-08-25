@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retrieval on Jesse A. Harris</title>
+    <link>https://jaharris.github.io/tags/retrieval/</link>
+    <description>Recent content in Retrieval on Jesse A. Harris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 15 May 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jaharris.github.io/tags/retrieval/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alternatives on demand and locality: Resolving discourse-linked wh-phrases in sluices</title>
+      <link>https://jaharris.github.io/talk/2018_lyn_invite/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2018_lyn_invite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictions in sentence processing: Words to structure</title>
+      <link>https://jaharris.github.io/talk/2017_usc_invite/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2017_usc_invite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure modulates similarity-based interference in sluicing: An eye tracking study</title>
+      <link>https://jaharris.github.io/publication/2015_sluicing/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://jaharris.github.io/publication/2015_sluicing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discourse accessibility and structural bias: Processing d-linked phrases in sluices</title>
+      <link>https://jaharris.github.io/talk/2013_cuny_sluicing/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2013_cuny_sluicing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating alternatives on demand: Processing sluices with d-linked remnants</title>
+      <link>https://jaharris.github.io/talk/2013_ucsc_invite/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2013_ucsc_invite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternatives on demand: Processing d-linked phrases in sluice structures</title>
+      <link>https://jaharris.github.io/talk/2012_amlap_sluicing/</link>
+      <pubDate>Sat, 08 Sep 2012 00:00:00 -0400</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2012_amlap_sluicing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

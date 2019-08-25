@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on Jesse A. Harris</title>
+    <link>https://jaharris.github.io/tags/reading/</link>
+    <description>Recent content in Reading on Jesse A. Harris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Aug 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jaharris.github.io/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Keep it local (and final): Remnant preferences in &#39;let alone&#39; ellipsis</title>
+      <link>https://jaharris.github.io/publication/2016_keep/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jaharris.github.io/publication/2016_keep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing let alone coordination in silent reading</title>
+      <link>https://jaharris.github.io/publication/2016_letalone/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jaharris.github.io/publication/2016_letalone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure modulates similarity-based interference in sluicing: An eye tracking study</title>
+      <link>https://jaharris.github.io/publication/2015_sluicing/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://jaharris.github.io/publication/2015_sluicing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Figuring out Kafka: structural biases induce early sense commitment for metonyms </title>
+      <link>https://jaharris.github.io/talk/2013_cuny_kafka/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2013_cuny_kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Structural Cues in Processing Polysemes </title>
+      <link>https://jaharris.github.io/talk/2013_lsa_kafka/</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2013_lsa_kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltaire was More Easily Duped than Forged: Structural Cues in Processing Polysemy</title>
+      <link>https://jaharris.github.io/talk/2012_erp_kafka/</link>
+      <pubDate>Thu, 08 Nov 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2012_erp_kafka/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

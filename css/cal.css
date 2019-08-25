@@ -1,0 +1,13 @@
+/*
+To make iCal responsive
+https://thomas.vanhoutte.be/miniblog/make-google-calendar-iframe-responsive/
+*/
+
+
+.responsiveCal {
+position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+}
+
+.responsiveCal iframe {
+position: absolute; top:0; left: 0; width: 100%; height: 100%;
+}

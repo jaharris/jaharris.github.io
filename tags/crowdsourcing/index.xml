@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crowdsourcing on Jesse A. Harris</title>
+    <link>https://jaharris.github.io/tags/crowdsourcing/</link>
+    <description>Recent content in Crowdsourcing on Jesse A. Harris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 05 Oct 2012 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jaharris.github.io/tags/crowdsourcing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fast, cheap, but totally in control: Using Amazon&#39;s Mechanical Turk for Psycholinguistics</title>
+      <link>https://jaharris.github.io/talk/2012_usc_invite/</link>
+      <pubDate>Fri, 05 Oct 2012 00:00:00 -0400</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2012_usc_invite/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

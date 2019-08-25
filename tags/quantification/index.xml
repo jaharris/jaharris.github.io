@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantification on Jesse A. Harris</title>
+    <link>https://jaharris.github.io/tags/quantification/</link>
+    <description>Recent content in Quantification on Jesse A. Harris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Feb 2012 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jaharris.github.io/tags/quantification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Processing and domain selection: Quantificational variability effects</title>
+      <link>https://jaharris.github.io/publication/2012_most/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/publication/2012_most/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing and domain selection: Quantificationally variable domains</title>
+      <link>https://jaharris.github.io/talk/2011_cuny_qve/</link>
+      <pubDate>Sat, 26 Mar 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2011_cuny_qve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On selecting quantificational domains during sentence processing</title>
+      <link>https://jaharris.github.io/talk/2011_tuebingen_invite/</link>
+      <pubDate>Thu, 17 Feb 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2011_tuebingen_invite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing and domain selection: Quantificationally variable effects</title>
+      <link>https://jaharris.github.io/talk/2011_pomona_invite/</link>
+      <pubDate>Sat, 05 Feb 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://jaharris.github.io/talk/2011_pomona_invite/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
