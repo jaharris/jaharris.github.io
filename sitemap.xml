@@ -1018,7 +1018,7 @@
     <url>
     
       <loc>https://jesseharris.netlify.com/tags/adaptation/</loc>
-      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1295,7 +1295,7 @@
     <url>
     
       <loc>https://jesseharris.netlify.com/tags/ellipsis/</loc>
-      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2019-06-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1304,7 +1304,7 @@
     <url>
     
       <loc>https://jesseharris.netlify.com/tags/ellipsis/</loc>
-      <lastmod>2019-06-15T00:00:00-04:00</lastmod>
+      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1367,7 +1367,7 @@
     <url>
     
       <loc>https://jesseharris.netlify.com/tags/eye-tracking/</loc>
-      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1376,7 +1376,7 @@
     <url>
     
       <loc>https://jesseharris.netlify.com/tags/focus/</loc>
-      <lastmod>2016-08-01T00:00:00-04:00</lastmod>
+      <lastmod>2018-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1386,6 +1386,15 @@
     
       <loc>https://jesseharris.netlify.com/tags/focus-sensitive-coordination/</loc>
       <lastmod>2019-06-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jesseharris.netlify.com/tags/focus-sensitive-ellipsis/</loc>
+      <lastmod>2018-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1421,7 +1430,7 @@
     <url>
     
       <loc>https://jesseharris.netlify.com/tags/interference/</loc>
-      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1475,7 +1484,7 @@
     <url>
     
       <loc>https://jesseharris.netlify.com/tags/locality/</loc>
-      <lastmod>2018-05-15T00:00:00-04:00</lastmod>
+      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1844,7 +1853,7 @@
     <url>
     
       <loc>https://jesseharris.netlify.com/tags/semantics/</loc>
-      <lastmod>2014-11-09T00:00:00-05:00</lastmod>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1871,7 +1880,7 @@
     <url>
     
       <loc>https://jesseharris.netlify.com/tags/sluicing/</loc>
-      <lastmod>2018-05-15T00:00:00-04:00</lastmod>
+      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1971,6 +1980,15 @@
     
       <loc>https://jesseharris.netlify.com/tags/visual-world/</loc>
       <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jesseharris.netlify.com/tags/visual-world-paradigm/</loc>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
