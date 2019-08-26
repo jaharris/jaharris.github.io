@@ -2,159 +2,159 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Jesse A. Harris</title>
-    <link>https://jaharris.github.io/home/</link>
+    <link>https://jesseharris.netlify.com/home/</link>
     <description>Recent content in Homes on Jesse A. Harris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://jaharris.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jesseharris.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://jaharris.github.io/home/hero_carousel/</link>
+      <link>https://jesseharris.netlify.com/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/hero_carousel/</guid>
+      <guid>https://jesseharris.netlify.com/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jaharris.github.io/home/hero/</link>
+      <link>https://jesseharris.netlify.com/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/hero/</guid>
+      <guid>https://jesseharris.netlify.com/home/hero/</guid>
       <description>
 The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jaharris.github.io/home/about/</link>
+      <link>https://jesseharris.netlify.com/home/about/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/about/</guid>
+      <guid>https://jesseharris.netlify.com/home/about/</guid>
       <description>Biography I am an assistant professor at UCLA in the Department of Linguistics, and director of the UCLA Language Processing Lab. My research investigates how language users develop a sufficiently rich linguistic meaning during online comprehension. Recent topics include the processing of ellipsis and the assignment of focus, as well as the role of other semantic, pragmatic, and prosodic defaults in sentence interpretation.
 I am committed to using experimental methods in my research, including Internet based questionnaires, corpora, and online methods such as self-paced reading and eye tracking.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jaharris.github.io/home/skills/</link>
+      <link>https://jesseharris.netlify.com/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/skills/</guid>
+      <guid>https://jesseharris.netlify.com/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://jaharris.github.io/home/research/</link>
+      <link>https://jesseharris.netlify.com/home/research/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/research/</guid>
+      <guid>https://jesseharris.netlify.com/home/research/</guid>
       <description>For more details, please refer to this overview of my research agenda or my cv. Ongoing research is also described on the UCLA Language Processing Lab page.</description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>https://jaharris.github.io/home/talks_selected/</link>
+      <link>https://jesseharris.netlify.com/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/talks_selected/</guid>
+      <guid>https://jesseharris.netlify.com/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://jaharris.github.io/home/posts/</link>
+      <link>https://jesseharris.netlify.com/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/posts/</guid>
+      <guid>https://jesseharris.netlify.com/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://jaharris.github.io/home/publications/</link>
+      <link>https://jesseharris.netlify.com/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/publications/</guid>
+      <guid>https://jesseharris.netlify.com/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://jaharris.github.io/home/publications_selected/</link>
+      <link>https://jesseharris.netlify.com/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/publications_selected/</guid>
+      <guid>https://jesseharris.netlify.com/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentations</title>
-      <link>https://jaharris.github.io/home/talks/</link>
+      <link>https://jesseharris.netlify.com/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/talks/</guid>
+      <guid>https://jesseharris.netlify.com/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://jaharris.github.io/home/projects/</link>
+      <link>https://jesseharris.netlify.com/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/projects/</guid>
+      <guid>https://jesseharris.netlify.com/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://jaharris.github.io/home/teaching/</link>
+      <link>https://jesseharris.netlify.com/home/teaching/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/teaching/</guid>
+      <guid>https://jesseharris.netlify.com/home/teaching/</guid>
       <description>Courses for 2018-2019 Fall 2018: Pragmatic Theory with Jessica Rett Course description:  Pragmatic research addresses a notoriously broad domain. In this course, we emphasized the theoretical components of pragmatics research, focusing on topics that highlight the internal structure of pragmatic mechanisms, as well as the ways in which pragmatic information is embedded within the architecture of the language faculty. We also introduce methods and ongoing developments in experimental pragmatics, an area that has become a driving force in shaping research interests in the field.</description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>https://jaharris.github.io/home/resources/</link>
+      <link>https://jesseharris.netlify.com/home/resources/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/resources/</guid>
+      <guid>https://jesseharris.netlify.com/home/resources/</guid>
       <description>Eye tracking corpora and tools Los Angeles Reading Corpus of Individual Differences  The Los Angeles Reading Corpus of Individual Differences (LARCID) is a corpus of natural reading and individual differences measures. The corpus is currently a feasibility pilot of eye tracking data collected from 15 readers. Five texts from public domain sources were included. In addition to the eye tracking measures, a battery of individual difference measures, along with basic demographic information, was collected in a separate session.</description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://jaharris.github.io/home/tags/</link>
+      <link>https://jesseharris.netlify.com/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/tags/</guid>
+      <guid>https://jesseharris.netlify.com/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://jaharris.github.io/home/search/</link>
+      <link>https://jesseharris.netlify.com/home/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/search/</guid>
+      <guid>https://jesseharris.netlify.com/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://jaharris.github.io/home/contact/</link>
+      <link>https://jesseharris.netlify.com/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/home/contact/</guid>
+      <guid>https://jesseharris.netlify.com/home/contact/</guid>
       <description>Agenda</description>
     </item>
     

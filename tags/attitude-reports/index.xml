@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Attitude reports on Jesse A. Harris</title>
-    <link>https://jaharris.github.io/tags/attitude-reports/</link>
+    <link>https://jesseharris.netlify.com/tags/attitude-reports/</link>
     <description>Recent content in Attitude reports on Jesse A. Harris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 09 Nov 2014 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://jaharris.github.io/tags/attitude-reports/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jesseharris.netlify.com/tags/attitude-reports/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Transparent Semantics for Transparent Free Relatives</title>
-      <link>https://jaharris.github.io/talk/2014_cusp/</link>
+      <link>https://jesseharris.netlify.com/talk/2014_cusp/</link>
       <pubDate>Sun, 09 Nov 2014 00:00:00 -0500</pubDate>
       
-      <guid>https://jaharris.github.io/talk/2014_cusp/</guid>
+      <guid>https://jesseharris.netlify.com/talk/2014_cusp/</guid>
       <description></description>
     </item>
     

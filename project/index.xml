@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Jesse A. Harris</title>
-    <link>https://jaharris.github.io/project/</link>
+    <link>https://jesseharris.netlify.com/project/</link>
     <description>Recent content in Projects on Jesse A. Harris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://jaharris.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jesseharris.netlify.com/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Learning</title>
-      <link>https://jaharris.github.io/project/deep-learning/</link>
+      <link>https://jesseharris.netlify.com/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/project/deep-learning/</guid>
+      <guid>https://jesseharris.netlify.com/project/deep-learning/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://jaharris.github.io/project/example-external-project/</link>
+      <link>https://jesseharris.netlify.com/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/project/example-external-project/</guid>
+      <guid>https://jesseharris.netlify.com/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guide to the Perplexed</title>
-      <link>https://jaharris.github.io/project/test/</link>
+      <link>https://jesseharris.netlify.com/project/test/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/project/test/</guid>
+      <guid>https://jesseharris.netlify.com/project/test/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Research overview</title>
-      <link>https://jaharris.github.io/project/overview/</link>
+      <link>https://jesseharris.netlify.com/project/overview/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/project/overview/</guid>
+      <guid>https://jesseharris.netlify.com/project/overview/</guid>
       <description>This page is in progress&amp;hellip;
 Information structure and ellipsis 
 Projects

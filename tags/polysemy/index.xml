@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Polysemy on Jesse A. Harris</title>
-    <link>https://jaharris.github.io/tags/polysemy/</link>
+    <link>https://jesseharris.netlify.com/tags/polysemy/</link>
     <description>Recent content in Polysemy on Jesse A. Harris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jun 2014 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://jaharris.github.io/tags/polysemy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jesseharris.netlify.com/tags/polysemy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Making sense of Kafka: Structural biases induce early sense commitment for metonyms</title>
-      <link>https://jaharris.github.io/publication/2014_kafka/</link>
+      <link>https://jesseharris.netlify.com/publication/2014_kafka/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 -0400</pubDate>
       
-      <guid>https://jaharris.github.io/publication/2014_kafka/</guid>
+      <guid>https://jesseharris.netlify.com/publication/2014_kafka/</guid>
       <description></description>
     </item>
     

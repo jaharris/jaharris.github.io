@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Persian on Jesse A. Harris</title>
-    <link>https://jaharris.github.io/tags/persian/</link>
+    <link>https://jesseharris.netlify.com/tags/persian/</link>
     <description>Recent content in Persian on Jesse A. Harris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://jaharris.github.io/tags/persian/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jesseharris.netlify.com/tags/persian/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interpreting Ambiguous Stripping Sentences in Persian: A Naturalness Rating Study</title>
-      <link>https://jaharris.github.io/talk/2019_lsa_persian/</link>
+      <link>https://jesseharris.netlify.com/talk/2019_lsa_persian/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jaharris.github.io/talk/2019_lsa_persian/</guid>
+      <guid>https://jesseharris.netlify.com/talk/2019_lsa_persian/</guid>
       <description></description>
     </item>
     
