@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://jesseharris.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://jesseharris.netlify.com/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title></title>
       <link>https://jesseharris.netlify.com/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/hero/</guid>
       <description>
@@ -34,7 +34,7 @@ The highly flexible website framework for Hugo with an extensible plugin mechani
     <item>
       <title></title>
       <link>https://jesseharris.netlify.com/home/about/</link>
-      <pubDate>Mon, 10 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/about/</guid>
       <description>Biography I am an assistant professor at UCLA in the Department of Linguistics, and director of the UCLA Language Processing Lab. My research investigates how language users develop a sufficiently rich linguistic meaning during online comprehension. Recent topics include the processing of ellipsis and the assignment of focus, as well as the role of other semantic, pragmatic, and prosodic defaults in sentence interpretation.
@@ -44,7 +44,7 @@ I am committed to using experimental methods in my research, including Internet 
     <item>
       <title></title>
       <link>https://jesseharris.netlify.com/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/skills/</guid>
       <description></description>
@@ -53,7 +53,7 @@ I am committed to using experimental methods in my research, including Internet 
     <item>
       <title>Research</title>
       <link>https://jesseharris.netlify.com/home/research/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/research/</guid>
       <description>For more details, please refer to this overview of my research agenda or my cv. Ongoing research is also described on the UCLA Language Processing Lab page.</description>
@@ -62,7 +62,7 @@ I am committed to using experimental methods in my research, including Internet 
     <item>
       <title>Selected Talks</title>
       <link>https://jesseharris.netlify.com/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/talks_selected/</guid>
       <description></description>
@@ -71,7 +71,7 @@ I am committed to using experimental methods in my research, including Internet 
     <item>
       <title>Recent Posts</title>
       <link>https://jesseharris.netlify.com/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/posts/</guid>
       <description></description>
@@ -80,7 +80,7 @@ I am committed to using experimental methods in my research, including Internet 
     <item>
       <title>Recent Publications</title>
       <link>https://jesseharris.netlify.com/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/publications/</guid>
       <description></description>
@@ -89,7 +89,7 @@ I am committed to using experimental methods in my research, including Internet 
     <item>
       <title>Selected Publications</title>
       <link>https://jesseharris.netlify.com/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/publications_selected/</guid>
       <description></description>
@@ -98,7 +98,7 @@ I am committed to using experimental methods in my research, including Internet 
     <item>
       <title>Presentations</title>
       <link>https://jesseharris.netlify.com/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/talks/</guid>
       <description></description>
@@ -107,7 +107,7 @@ I am committed to using experimental methods in my research, including Internet 
     <item>
       <title>Projects</title>
       <link>https://jesseharris.netlify.com/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/projects/</guid>
       <description></description>
@@ -116,16 +116,16 @@ I am committed to using experimental methods in my research, including Internet 
     <item>
       <title>Teaching</title>
       <link>https://jesseharris.netlify.com/home/teaching/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/teaching/</guid>
-      <description>Courses for 2018-2019 Fall 2018: Pragmatic Theory with Jessica Rett Course description:  Pragmatic research addresses a notoriously broad domain. In this course, we emphasized the theoretical components of pragmatics research, focusing on topics that highlight the internal structure of pragmatic mechanisms, as well as the ways in which pragmatic information is embedded within the architecture of the language faculty. We also introduce methods and ongoing developments in experimental pragmatics, an area that has become a driving force in shaping research interests in the field.</description>
+      <description>Courses for 2019-2020 Fall 2019. Language Processing [Ling 132] Course description:  Psycholinguistics is a relatively young, but rapidly growing, discipline that addresses how language might be realized as a component within the general cognitive system, and how language is comprehended, produced, and represented in memory. It is an interdisciplinary effort, drawing on research and techniques from linguistics, psychology, neuroscience, and computer science, and utilizes a variety of methods to investigate the underlying representations and mechanisms that are involved in linguistic computations.</description>
     </item>
     
     <item>
       <title>Resources</title>
       <link>https://jesseharris.netlify.com/home/resources/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/resources/</guid>
       <description>Eye tracking corpora and tools Los Angeles Reading Corpus of Individual Differences  The Los Angeles Reading Corpus of Individual Differences (LARCID) is a corpus of natural reading and individual differences measures. The corpus is currently a feasibility pilot of eye tracking data collected from 15 readers. Five texts from public domain sources were included. In addition to the eye tracking measures, a battery of individual difference measures, along with basic demographic information, was collected in a separate session.</description>
@@ -134,7 +134,7 @@ I am committed to using experimental methods in my research, including Internet 
     <item>
       <title>Tags</title>
       <link>https://jesseharris.netlify.com/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/tags/</guid>
       <description></description>
@@ -143,7 +143,7 @@ I am committed to using experimental methods in my research, including Internet 
     <item>
       <title>Search</title>
       <link>https://jesseharris.netlify.com/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/search/</guid>
       <description></description>
@@ -152,7 +152,7 @@ I am committed to using experimental methods in my research, including Internet 
     <item>
       <title>Contact</title>
       <link>https://jesseharris.netlify.com/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://jesseharris.netlify.com/home/contact/</guid>
       <description>Agenda</description>
