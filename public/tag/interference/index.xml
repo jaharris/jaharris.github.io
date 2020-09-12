@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interference | JESSE HARRIS</title>
+    <link>/tag/interference/</link>
+      <atom:link href="/tag/interference/index.xml" rel="self" type="application/rss+xml" />
+    <description>interference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Aug 2019 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>interference</title>
+      <link>/tag/interference/</link>
+    </image>
+    
+    <item>
+      <title>The effect of position on relative clauses</title>
+      <link>/talk/2020_camp3_rc/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 -0700</pubDate>
+      <guid>/talk/2020_camp3_rc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locality and Alternatives on Demand: Resolving discourse-linked wh-phrases in sluiced structures</title>
+      <link>/publication/2018_sluicing/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0700</pubDate>
+      <guid>/publication/2018_sluicing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarity-based interference and morphological retrieval in Portuguese sluiced sentences</title>
+      <link>/talk/2019_cuny_poster_port/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      <guid>/talk/2019_cuny_poster_port/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic selectivity in the retrieval of sluiced sentences: An eye movement study.</title>
+      <link>/talk/2017_cuny_sluiceselect/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
+      <guid>/talk/2017_cuny_sluiceselect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating alternatives on demand: Processing sluices with d-linked remnants</title>
+      <link>/talk/2013_ucsc_invite/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 -0700</pubDate>
+      <guid>/talk/2013_ucsc_invite/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

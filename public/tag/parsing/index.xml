@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>parsing | JESSE HARRIS</title>
+    <link>/tag/parsing/</link>
+      <atom:link href="/tag/parsing/index.xml" rel="self" type="application/rss+xml" />
+    <description>parsing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2020 00:00:00 -0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>parsing</title>
+      <link>/tag/parsing/</link>
+    </image>
+    
+    <item>
+      <title>Getting ahead of ourselves: Structural prediction in sentence parsing</title>
+      <link>/talk/2020_prediction/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 -0800</pubDate>
+      <guid>/talk/2020_prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for lingering structural prediction in &#39;either-or&#39; structures</title>
+      <link>/talk/2019_pipp_either/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      <guid>/talk/2019_pipp_either/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The limits of forward thinking: Structural prediction with correlative and quantificational &#39;both&#39; </title>
+      <link>/talk/2019_pipp_both/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      <guid>/talk/2019_pipp_both/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

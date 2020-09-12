@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phoneme restoration | JESSE HARRIS</title>
+    <link>/tag/phoneme-restoration/</link>
+      <atom:link href="/tag/phoneme-restoration/index.xml" rel="self" type="application/rss+xml" />
+    <description>phoneme restoration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Mar 2016 00:00:00 -0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>phoneme restoration</title>
+      <link>/tag/phoneme-restoration/</link>
+    </image>
+    
+    <item>
+      <title>Preference for single events guides perception in Russian: A phoneme restoration study</title>
+      <link>/talk/2016_russianevents/</link>
+      <pubDate>Wed, 02 Mar 2016 00:00:00 -0800</pubDate>
+      <guid>/talk/2016_russianevents/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

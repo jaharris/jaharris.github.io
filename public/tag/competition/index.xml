@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>competition | JESSE HARRIS</title>
+    <link>/tag/competition/</link>
+      <atom:link href="/tag/competition/index.xml" rel="self" type="application/rss+xml" />
+    <description>competition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>competition</title>
+      <link>/tag/competition/</link>
+    </image>
+    
+    <item>
+      <title>Contextual constraint and lexical competition: The misperception hypothesis revisited</title>
+      <link>/publication/2021_jep_misperception/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 -0700</pubDate>
+      <guid>/publication/2021_jep_misperception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictability and misperception: An eye movement and ex- Gaussian analysis</title>
+      <link>/talk/2017_cuny_predict/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
+      <guid>/talk/2017_cuny_predict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical Decision in Real Time: A Mouse Tracking Study</title>
+      <link>/talk/2014_psychonomics/</link>
+      <pubDate>Sun, 23 Nov 2014 00:00:00 -0800</pubDate>
+      <guid>/talk/2014_psychonomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preferences for focus particle placement: Two experiments</title>
+      <link>/talk/2014_ampra_focus/</link>
+      <pubDate>Fri, 17 Oct 2014 00:00:00 -0700</pubDate>
+      <guid>/talk/2014_ampra_focus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

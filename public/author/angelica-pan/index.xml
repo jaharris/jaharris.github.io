@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angelica Pan | JESSE HARRIS</title>
+    <link>/author/angelica-pan/</link>
+      <atom:link href="/author/angelica-pan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Angelica Pan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Aug 2019 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Angelica Pan</title>
+      <link>/author/angelica-pan/</link>
+    </image>
+    
+    <item>
+      <title>The effect of position on relative clauses</title>
+      <link>/talk/2020_camp3_rc/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 -0700</pubDate>
+      <guid>/talk/2020_camp3_rc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

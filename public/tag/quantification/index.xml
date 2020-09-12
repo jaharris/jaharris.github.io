@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quantification | JESSE HARRIS</title>
+    <link>/tag/quantification/</link>
+      <atom:link href="/tag/quantification/index.xml" rel="self" type="application/rss+xml" />
+    <description>quantification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2012 00:00:00 -0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>quantification</title>
+      <link>/tag/quantification/</link>
+    </image>
+    
+    <item>
+      <title>Processing and domain selection: Quantificational variability effects</title>
+      <link>/publication/2012_most/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 -0800</pubDate>
+      <guid>/publication/2012_most/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing and domain selection: Quantificationally variable domains</title>
+      <link>/talk/2011_cuny_qve/</link>
+      <pubDate>Sat, 26 Mar 2011 00:00:00 -0700</pubDate>
+      <guid>/talk/2011_cuny_qve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On selecting quantificational domains during sentence processing</title>
+      <link>/talk/2011_tuebingen_invite/</link>
+      <pubDate>Thu, 17 Feb 2011 00:00:00 -0800</pubDate>
+      <guid>/talk/2011_tuebingen_invite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing and domain selection: Quantificationally variable effects</title>
+      <link>/talk/2011_pomona_invite/</link>
+      <pubDate>Sat, 05 Feb 2011 00:00:00 -0800</pubDate>
+      <guid>/talk/2011_pomona_invite/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

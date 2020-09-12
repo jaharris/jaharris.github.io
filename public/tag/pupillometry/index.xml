@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pupillometry | JESSE HARRIS</title>
+    <link>/tag/pupillometry/</link>
+      <atom:link href="/tag/pupillometry/index.xml" rel="self" type="application/rss+xml" />
+    <description>pupillometry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>pupillometry</title>
+      <link>/tag/pupillometry/</link>
+    </image>
+    
+    <item>
+      <title>The online advantage of repairing metrical structure: Stress shift in pupillometry</title>
+      <link>/talk/2020_cuny_stress/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 -0700</pubDate>
+      <guid>/talk/2020_cuny_stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating sound and structure in concert: A pupillometry study of relative clause attachment</title>
+      <link>/publication/2019_cogsci/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 -0700</pubDate>
+      <guid>/publication/2019_cogsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating sound and structure in concert: A pupillometry study of relative clause attachment</title>
+      <link>/talk/2019_cogsci/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      <guid>/talk/2019_cogsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online closure mismatches between prosody and syntax: A pupillometry study</title>
+      <link>/talk/2019_epc_pupil/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      <guid>/talk/2019_epc_pupil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using pupillometry to assess prosodic alignment in language comprehension</title>
+      <link>/talk/2019_icphs_pupil/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      <guid>/talk/2019_icphs_pupil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pupil dilation indexes closure mismatches between prosody and syntax</title>
+      <link>/talk/2018_etap/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      <guid>/talk/2018_etap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

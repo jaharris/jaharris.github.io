@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>strict sloppy | JESSE HARRIS</title>
+    <link>/tag/strict-sloppy/</link>
+      <atom:link href="/tag/strict-sloppy/index.xml" rel="self" type="application/rss+xml" />
+    <description>strict sloppy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>strict sloppy</title>
+      <link>/tag/strict-sloppy/</link>
+    </image>
+    
+    <item>
+      <title>Resolving ambiguous VP ellipsis in eye tracking: A case for underspecification</title>
+      <link>/talk/2019_lsa_strictsloppy/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      <guid>/talk/2019_lsa_strictsloppy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

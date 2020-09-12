@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>acceptability | JESSE HARRIS</title>
+    <link>/tag/acceptability/</link>
+      <atom:link href="/tag/acceptability/index.xml" rel="self" type="application/rss+xml" />
+    <description>acceptability</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>acceptability</title>
+      <link>/tag/acceptability/</link>
+    </image>
+    
+    <item>
+      <title>Morphological identity and voice mismatch in VP ellipsis: An interference-based account</title>
+      <link>/talk/2020_amlap_vpe/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 -0700</pubDate>
+      <guid>/talk/2020_amlap_vpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological identity and voice mismatch in VP ellipsis: An interference-based account</title>
+      <link>/talk/2020_cuny_vpe/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 -0700</pubDate>
+      <guid>/talk/2020_cuny_vpe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

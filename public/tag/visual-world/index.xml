@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visual world | JESSE HARRIS</title>
+    <link>/tag/visual-world/</link>
+      <atom:link href="/tag/visual-world/index.xml" rel="self" type="application/rss+xml" />
+    <description>visual world</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 24 May 2020 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>visual world</title>
+      <link>/tag/visual-world/</link>
+    </image>
+    
+    <item>
+      <title>Learning to anticipate contrast with prosody: A visual world study with L2 learners</title>
+      <link>/talk/2020_speechprosody/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 -0700</pubDate>
+      <guid>/talk/2020_speechprosody/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Listeners’ beliefs about the speaker and adaptation to the deviant use of prosody</title>
+      <link>/talk/2019_cuny_poster_beliefs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      <guid>/talk/2019_cuny_poster_beliefs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prosody-meaning mismatches in PP ambiguity: Incremental processing with pupillometry</title>
+      <link>/talk/2019_cuny_poster_pupil/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      <guid>/talk/2019_cuny_poster_pupil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cue reliability affects anticipatory use of prosody in processing globally ambiguous sentences.</title>
+      <link>/talk/2018_cuny_talk2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      <guid>/talk/2018_cuny_talk2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive processing and reliability in the influence of prosody in L2 structural analysis</title>
+      <link>/talk/2018_cuny_poster2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <guid>/talk/2018_cuny_poster2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

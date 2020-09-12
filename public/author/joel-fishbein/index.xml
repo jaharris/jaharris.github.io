@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joel Fishbein | JESSE HARRIS</title>
+    <link>/author/joel-fishbein/</link>
+      <atom:link href="/author/joel-fishbein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joel Fishbein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2014 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Joel Fishbein</title>
+      <link>/author/joel-fishbein/</link>
+    </image>
+    
+    <item>
+      <title>Making sense of Kafka: Structural biases induce early sense commitment for metonyms</title>
+      <link>/publication/2014_kafka/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 -0700</pubDate>
+      <guid>/publication/2014_kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Figuring out Kafka: structural biases induce early sense commitment for metonyms </title>
+      <link>/talk/2013_cuny_kafka/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 -0700</pubDate>
+      <guid>/talk/2013_cuny_kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Structural Cues in Processing Polysemes </title>
+      <link>/talk/2013_lsa_kafka/</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 -0800</pubDate>
+      <guid>/talk/2013_lsa_kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltaire was More Easily Duped than Forged: Structural Cues in Processing Polysemy</title>
+      <link>/talk/2012_erp_kafka/</link>
+      <pubDate>Thu, 08 Nov 2012 00:00:00 -0800</pubDate>
+      <guid>/talk/2012_erp_kafka/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
