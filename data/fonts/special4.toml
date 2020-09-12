@@ -1,0 +1,15 @@
+# Font style metadata
+name = "special4"
+
+# Optional Google font URL
+google_fonts = "IBM+Plex+Sans|IBM+Plex+Sans:500|Fira+Mono"
+
+# Font families
+heading_font = "IBM+Plex+Sans:500"
+body_font = "IBM Plex Sans"
+nav_font = "IBM Plex Sans 500"
+mono_font = "Fira Mono"
+
+# Font size
+font_size = "22"
+font_size_small = "18"

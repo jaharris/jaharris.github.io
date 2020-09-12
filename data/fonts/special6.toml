@@ -1,0 +1,15 @@
+# Font style metadata
+name = "special6"
+
+# Optional Google font URL
+google_fonts = "Open+Sans|Raleway:200,600|Fira+Mono"
+
+# Font families
+heading_font = "Raleway"
+body_font = "Open Sans"
+nav_font = "Raleway"
+mono_font = "Fira Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
