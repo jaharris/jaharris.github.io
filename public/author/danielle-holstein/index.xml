@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Danielle Holstein | JESSE HARRIS</title>
-    <link>/author/danielle-holstein/</link>
-      <atom:link href="/author/danielle-holstein/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jesseharris.netlify.app/author/danielle-holstein/</link>
+      <atom:link href="https://jesseharris.netlify.app/author/danielle-holstein/index.xml" rel="self" type="application/rss+xml" />
     <description>Danielle Holstein</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Fri, 17 Oct 2014 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Danielle Holstein</title>
-      <link>/author/danielle-holstein/</link>
+      <link>https://jesseharris.netlify.app/author/danielle-holstein/</link>
     </image>
     
     <item>
       <title>Biscuit conditionals as indirect offers</title>
-      <link>/talk/2014_ampra_biscuit/</link>
+      <link>https://jesseharris.netlify.app/talk/2014_ampra_biscuit/</link>
       <pubDate>Fri, 17 Oct 2014 00:00:00 -0700</pubDate>
-      <guid>/talk/2014_ampra_biscuit/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2014_ampra_biscuit/</guid>
       <description></description>
     </item>
     

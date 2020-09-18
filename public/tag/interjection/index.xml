@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>interjection | JESSE HARRIS</title>
-    <link>/tag/interjection/</link>
-      <atom:link href="/tag/interjection/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jesseharris.netlify.app/tag/interjection/</link>
+      <atom:link href="https://jesseharris.netlify.app/tag/interjection/index.xml" rel="self" type="application/rss+xml" />
     <description>interjection</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>interjection</title>
-      <link>/tag/interjection/</link>
+      <link>https://jesseharris.netlify.app/tag/interjection/</link>
     </image>
     
     <item>
       <title>Interjective what</title>
-      <link>/publication/2013_what/</link>
+      <link>https://jesseharris.netlify.app/publication/2013_what/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
-      <guid>/publication/2013_what/</guid>
+      <guid>https://jesseharris.netlify.app/publication/2013_what/</guid>
       <description></description>
     </item>
     
     <item>
       <title>That&#39;s, what, an approximation? A formal semantics for approximative what</title>
-      <link>/talk/2013_what/</link>
+      <link>https://jesseharris.netlify.app/talk/2013_what/</link>
       <pubDate>Mon, 03 Jun 2013 00:00:00 -0700</pubDate>
-      <guid>/talk/2013_what/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2013_what/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A semantics for interjective what</title>
-      <link>/talk/2012_cusp_what/</link>
+      <link>https://jesseharris.netlify.app/talk/2012_cusp_what/</link>
       <pubDate>Thu, 08 Nov 2012 00:00:00 -0800</pubDate>
-      <guid>/talk/2012_cusp_what/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2012_cusp_what/</guid>
       <description></description>
     </item>
     

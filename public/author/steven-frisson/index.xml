@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steven Frisson | JESSE HARRIS</title>
-    <link>/author/steven-frisson/</link>
-      <atom:link href="/author/steven-frisson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jesseharris.netlify.app/author/steven-frisson/</link>
+      <atom:link href="https://jesseharris.netlify.app/author/steven-frisson/index.xml" rel="self" type="application/rss+xml" />
     <description>Steven Frisson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Fri, 01 Aug 2008 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Steven Frisson</title>
-      <link>/author/steven-frisson/</link>
+      <link>https://jesseharris.netlify.app/author/steven-frisson/</link>
     </image>
     
     <item>
       <title>The cost of question concealment: evidence from eyetracking and MEG</title>
-      <link>/publication/2008_cq/</link>
+      <link>https://jesseharris.netlify.app/publication/2008_cq/</link>
       <pubDate>Fri, 01 Aug 2008 00:00:00 -0700</pubDate>
-      <guid>/publication/2008_cq/</guid>
+      <guid>https://jesseharris.netlify.app/publication/2008_cq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Interpretation of Concealed Questions: MEG and Eye-Tracking Data</title>
-      <link>/talk/2006_cuny_cqs/</link>
+      <link>https://jesseharris.netlify.app/talk/2006_cuny_cqs/</link>
       <pubDate>Sat, 25 Mar 2006 00:00:00 -0800</pubDate>
-      <guid>/talk/2006_cuny_cqs/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2006_cuny_cqs/</guid>
       <description></description>
     </item>
     

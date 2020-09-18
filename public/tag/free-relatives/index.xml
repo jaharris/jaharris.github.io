@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>free relatives | JESSE HARRIS</title>
-    <link>/tag/free-relatives/</link>
-      <atom:link href="/tag/free-relatives/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jesseharris.netlify.app/tag/free-relatives/</link>
+      <atom:link href="https://jesseharris.netlify.app/tag/free-relatives/index.xml" rel="self" type="application/rss+xml" />
     <description>free relatives</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Wed, 08 Feb 2017 00:00:00 -0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>free relatives</title>
-      <link>/tag/free-relatives/</link>
+      <link>https://jesseharris.netlify.app/tag/free-relatives/</link>
     </image>
     
     <item>
       <title>Association with focus for focus-sensitive particles: Differences between only and even in silent reading</title>
-      <link>/talk/2017_lsa/</link>
+      <link>https://jesseharris.netlify.app/talk/2017_lsa/</link>
       <pubDate>Wed, 08 Feb 2017 00:00:00 -0800</pubDate>
-      <guid>/talk/2017_lsa/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2017_lsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implicit prosody pulls its weight: Recovery from garden path sentences</title>
-      <link>/talk/2016_speechprosody/</link>
+      <link>https://jesseharris.netlify.app/talk/2016_speechprosody/</link>
       <pubDate>Fri, 03 Jun 2016 00:00:00 -0700</pubDate>
-      <guid>/talk/2016_speechprosody/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2016_speechprosody/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Commitment by proxy: Perspective management with transparent free relatives</title>
-      <link>/talk/2016_glow_invite/</link>
+      <link>https://jesseharris.netlify.app/talk/2016_glow_invite/</link>
       <pubDate>Fri, 08 Apr 2016 00:00:00 -0700</pubDate>
-      <guid>/talk/2016_glow_invite/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2016_glow_invite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Transparent Semantics for Transparent Free Relatives</title>
-      <link>/talk/2014_cusp/</link>
+      <link>https://jesseharris.netlify.app/talk/2014_cusp/</link>
       <pubDate>Sun, 09 Nov 2014 00:00:00 -0800</pubDate>
-      <guid>/talk/2014_cusp/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2014_cusp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Commitment by proxy</title>
-      <link>/talk/2014_sembabble_invite/</link>
+      <link>https://jesseharris.netlify.app/talk/2014_sembabble_invite/</link>
       <pubDate>Tue, 06 May 2014 00:00:00 -0700</pubDate>
-      <guid>/talk/2014_sembabble_invite/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2014_sembabble_invite/</guid>
       <description></description>
     </item>
     

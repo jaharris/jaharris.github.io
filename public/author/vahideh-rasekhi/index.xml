@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vahideh Rasekhi | JESSE HARRIS</title>
-    <link>/author/vahideh-rasekhi/</link>
-      <atom:link href="/author/vahideh-rasekhi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jesseharris.netlify.app/author/vahideh-rasekhi/</link>
+      <atom:link href="https://jesseharris.netlify.app/author/vahideh-rasekhi/index.xml" rel="self" type="application/rss+xml" />
     <description>Vahideh Rasekhi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Wed, 18 Mar 2020 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Vahideh Rasekhi</title>
-      <link>/author/vahideh-rasekhi/</link>
+      <link>https://jesseharris.netlify.app/author/vahideh-rasekhi/</link>
     </image>
     
     <item>
       <title>Disambiguating stripping ellipsis in Persian: How parallelism and locality interact</title>
-      <link>/talk/2020_cuny_persian/</link>
+      <link>https://jesseharris.netlify.app/talk/2020_cuny_persian/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 -0700</pubDate>
-      <guid>/talk/2020_cuny_persian/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2020_cuny_persian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping remnant and correlate in Persian stripping</title>
-      <link>/talk/2020_camp3_persian/</link>
+      <link>https://jesseharris.netlify.app/talk/2020_camp3_persian/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 -0700</pubDate>
-      <guid>/talk/2020_camp3_persian/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2020_camp3_persian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpreting Ambiguous Stripping Sentences in Persian: A Naturalness Rating Study</title>
-      <link>/talk/2019_lsa_persian/</link>
+      <link>https://jesseharris.netlify.app/talk/2019_lsa_persian/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      <guid>/talk/2019_lsa_persian/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2019_lsa_persian/</guid>
       <description></description>
     </item>
     

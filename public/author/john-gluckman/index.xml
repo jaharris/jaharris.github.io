@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Gluckman | JESSE HARRIS</title>
-    <link>/author/john-gluckman/</link>
-      <atom:link href="/author/john-gluckman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jesseharris.netlify.app/author/john-gluckman/</link>
+      <atom:link href="https://jesseharris.netlify.app/author/john-gluckman/index.xml" rel="self" type="application/rss+xml" />
     <description>John Gluckman</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>John Gluckman</title>
-      <link>/author/john-gluckman/</link>
+      <link>https://jesseharris.netlify.app/author/john-gluckman/</link>
     </image>
     
     <item>
       <title>Resolving ambiguous VP ellipsis in eye tracking: A case for underspecification</title>
-      <link>/talk/2019_lsa_strictsloppy/</link>
+      <link>https://jesseharris.netlify.app/talk/2019_lsa_strictsloppy/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      <guid>/talk/2019_lsa_strictsloppy/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2019_lsa_strictsloppy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sloppy on the road to strict? Stereotypical gender and the interpretation of VP Ellipsis.</title>
-      <link>/talk/2017_cuny_strict/</link>
+      <link>https://jesseharris.netlify.app/talk/2017_cuny_strict/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
-      <guid>/talk/2017_cuny_strict/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2017_cuny_strict/</guid>
       <description></description>
     </item>
     

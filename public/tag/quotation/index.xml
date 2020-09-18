@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>quotation | JESSE HARRIS</title>
-    <link>/tag/quotation/</link>
-      <atom:link href="/tag/quotation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jesseharris.netlify.app/tag/quotation/</link>
+      <atom:link href="https://jesseharris.netlify.app/tag/quotation/index.xml" rel="self" type="application/rss+xml" />
     <description>quotation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>quotation</title>
-      <link>/tag/quotation/</link>
+      <link>https://jesseharris.netlify.app/tag/quotation/</link>
     </image>
     
     <item>
       <title>Effect of partial quotation and transparent free relatives on perspective shift</title>
-      <link>/talk/2019_cuny_poster_tfr/</link>
+      <link>https://jesseharris.netlify.app/talk/2019_cuny_poster_tfr/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      <guid>/talk/2019_cuny_poster_tfr/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2019_cuny_poster_tfr/</guid>
       <description></description>
     </item>
     

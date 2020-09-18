@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portuguese | JESSE HARRIS</title>
-    <link>/tag/portuguese/</link>
-      <atom:link href="/tag/portuguese/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jesseharris.netlify.app/tag/portuguese/</link>
+      <atom:link href="https://jesseharris.netlify.app/tag/portuguese/index.xml" rel="self" type="application/rss+xml" />
     <description>Portuguese</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Sat, 28 Sep 2019 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Portuguese</title>
-      <link>/tag/portuguese/</link>
+      <link>https://jesseharris.netlify.app/tag/portuguese/</link>
     </image>
     
     <item>
       <title>Not all cues are equal: Retrieving gender and number in Brazilian Portuguese sluiced sentences</title>
-      <link>/talk/2020_romance/</link>
+      <link>https://jesseharris.netlify.app/talk/2020_romance/</link>
       <pubDate>Sat, 28 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>/talk/2020_romance/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2020_romance/</guid>
       <description></description>
     </item>
     

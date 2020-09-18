@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>coercion | JESSE HARRIS</title>
-    <link>/tag/coercion/</link>
-      <atom:link href="/tag/coercion/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jesseharris.netlify.app/tag/coercion/</link>
+      <atom:link href="https://jesseharris.netlify.app/tag/coercion/index.xml" rel="self" type="application/rss+xml" />
     <description>coercion</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>coercion</title>
-      <link>/tag/coercion/</link>
+      <link>https://jesseharris.netlify.app/tag/coercion/</link>
     </image>
     
     <item>
       <title>Complement coercion induces greater garden path cost: Two eye tracking studies</title>
-      <link>/talk/2018_cuny_poster/</link>
+      <link>https://jesseharris.netlify.app/talk/2018_cuny_poster/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
-      <guid>/talk/2018_cuny_poster/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2018_cuny_poster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The cost of question concealment: evidence from eyetracking and MEG</title>
-      <link>/publication/2008_cq/</link>
+      <link>https://jesseharris.netlify.app/publication/2008_cq/</link>
       <pubDate>Fri, 01 Aug 2008 00:00:00 -0700</pubDate>
-      <guid>/publication/2008_cq/</guid>
+      <guid>https://jesseharris.netlify.app/publication/2008_cq/</guid>
       <description></description>
     </item>
     

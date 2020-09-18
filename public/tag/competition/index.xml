@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>competition | JESSE HARRIS</title>
-    <link>/tag/competition/</link>
-      <atom:link href="/tag/competition/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jesseharris.netlify.app/tag/competition/</link>
+      <atom:link href="https://jesseharris.netlify.app/tag/competition/index.xml" rel="self" type="application/rss+xml" />
     <description>competition</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>competition</title>
-      <link>/tag/competition/</link>
+      <link>https://jesseharris.netlify.app/tag/competition/</link>
     </image>
     
     <item>
       <title>Contextual constraint and lexical competition: Revisiting biased misperception during reading</title>
-      <link>/publication/2021_jep_misperception/</link>
+      <link>https://jesseharris.netlify.app/publication/2021_jep_misperception/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 -0700</pubDate>
-      <guid>/publication/2021_jep_misperception/</guid>
+      <guid>https://jesseharris.netlify.app/publication/2021_jep_misperception/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictability and misperception: An eye movement and ex- Gaussian analysis</title>
-      <link>/talk/2017_cuny_predict/</link>
+      <link>https://jesseharris.netlify.app/talk/2017_cuny_predict/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
-      <guid>/talk/2017_cuny_predict/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2017_cuny_predict/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lexical Decision in Real Time: A Mouse Tracking Study</title>
-      <link>/talk/2014_psychonomics/</link>
+      <link>https://jesseharris.netlify.app/talk/2014_psychonomics/</link>
       <pubDate>Sun, 23 Nov 2014 00:00:00 -0800</pubDate>
-      <guid>/talk/2014_psychonomics/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2014_psychonomics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preferences for focus particle placement: Two experiments</title>
-      <link>/talk/2014_ampra_focus/</link>
+      <link>https://jesseharris.netlify.app/talk/2014_ampra_focus/</link>
       <pubDate>Fri, 17 Oct 2014 00:00:00 -0700</pubDate>
-      <guid>/talk/2014_ampra_focus/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2014_ampra_focus/</guid>
       <description></description>
     </item>
     

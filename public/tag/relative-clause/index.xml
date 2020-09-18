@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>relative clause | JESSE HARRIS</title>
-    <link>/tag/relative-clause/</link>
-      <atom:link href="/tag/relative-clause/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jesseharris.netlify.app/tag/relative-clause/</link>
+      <atom:link href="https://jesseharris.netlify.app/tag/relative-clause/index.xml" rel="self" type="application/rss+xml" />
     <description>relative clause</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Thu, 11 Apr 2019 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>relative clause</title>
-      <link>/tag/relative-clause/</link>
+      <link>https://jesseharris.netlify.app/tag/relative-clause/</link>
     </image>
     
     <item>
       <title>Investigating sound and structure in concert: A pupillometry study of relative clause attachment</title>
-      <link>/publication/2019_cogsci/</link>
+      <link>https://jesseharris.netlify.app/publication/2019_cogsci/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 -0700</pubDate>
-      <guid>/publication/2019_cogsci/</guid>
+      <guid>https://jesseharris.netlify.app/publication/2019_cogsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating sound and structure in concert: A pupillometry study of relative clause attachment</title>
-      <link>/talk/2019_cogsci/</link>
+      <link>https://jesseharris.netlify.app/talk/2019_cogsci/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      <guid>/talk/2019_cogsci/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2019_cogsci/</guid>
       <description></description>
     </item>
     

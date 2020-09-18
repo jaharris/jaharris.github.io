@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>poster | JESSE HARRIS</title>
-    <link>/tag/poster/</link>
-      <atom:link href="/tag/poster/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jesseharris.netlify.app/tag/poster/</link>
+      <atom:link href="https://jesseharris.netlify.app/tag/poster/index.xml" rel="self" type="application/rss+xml" />
     <description>poster</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>poster</title>
-      <link>/tag/poster/</link>
+      <link>https://jesseharris.netlify.app/tag/poster/</link>
     </image>
     
     <item>
       <title>Effect of partial quotation and transparent free relatives on perspective shift</title>
-      <link>/talk/2019_cuny_poster_tfr/</link>
+      <link>https://jesseharris.netlify.app/talk/2019_cuny_poster_tfr/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      <guid>/talk/2019_cuny_poster_tfr/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2019_cuny_poster_tfr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence for lingering structural prediction in &#39;either-or&#39; structures</title>
-      <link>/talk/2019_pipp_either/</link>
+      <link>https://jesseharris.netlify.app/talk/2019_pipp_either/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      <guid>/talk/2019_pipp_either/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2019_pipp_either/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating sound and structure in concert: A pupillometry study of relative clause attachment</title>
-      <link>/talk/2019_cogsci/</link>
+      <link>https://jesseharris.netlify.app/talk/2019_cogsci/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      <guid>/talk/2019_cogsci/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2019_cogsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Listeners’ beliefs about the speaker and adaptation to the deviant use of prosody</title>
-      <link>/talk/2019_cuny_poster_beliefs/</link>
+      <link>https://jesseharris.netlify.app/talk/2019_cuny_poster_beliefs/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      <guid>/talk/2019_cuny_poster_beliefs/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2019_cuny_poster_beliefs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prosody-meaning mismatches in PP ambiguity: Incremental processing with pupillometry</title>
-      <link>/talk/2019_cuny_poster_pupil/</link>
+      <link>https://jesseharris.netlify.app/talk/2019_cuny_poster_pupil/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      <guid>/talk/2019_cuny_poster_pupil/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2019_cuny_poster_pupil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Similarity-based interference and morphological retrieval in Portuguese sluiced sentences</title>
-      <link>/talk/2019_cuny_poster_port/</link>
+      <link>https://jesseharris.netlify.app/talk/2019_cuny_poster_port/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      <guid>/talk/2019_cuny_poster_port/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2019_cuny_poster_port/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The limits of forward thinking: Structural prediction with correlative and quantificational &#39;both&#39; </title>
-      <link>/talk/2019_pipp_both/</link>
+      <link>https://jesseharris.netlify.app/talk/2019_pipp_both/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      <guid>/talk/2019_pipp_both/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2019_pipp_both/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thinking ahead has its limits: Structural prediction with correlative and quantificational both</title>
-      <link>/talk/2019_cuny_poster_both/</link>
+      <link>https://jesseharris.netlify.app/talk/2019_cuny_poster_both/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      <guid>/talk/2019_cuny_poster_both/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2019_cuny_poster_both/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Complement coercion induces greater garden path cost: Two eye tracking studies</title>
-      <link>/talk/2018_cuny_poster/</link>
+      <link>https://jesseharris.netlify.app/talk/2018_cuny_poster/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
-      <guid>/talk/2018_cuny_poster/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2018_cuny_poster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pupil dilation indexes closure mismatches between prosody and syntax</title>
-      <link>/talk/2018_etap/</link>
+      <link>https://jesseharris.netlify.app/talk/2018_etap/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
-      <guid>/talk/2018_etap/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2018_etap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disconfirmed lexical predictions linger in highly constraining contexts</title>
-      <link>/talk/2018_cuny_poster4/</link>
+      <link>https://jesseharris.netlify.app/talk/2018_cuny_poster4/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      <guid>/talk/2018_cuny_poster4/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2018_cuny_poster4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L2 Adaptation to Unreliable Prosody During Structural Analysis: A Visual World Study</title>
-      <link>/talk/2018_bucld/</link>
+      <link>https://jesseharris.netlify.app/talk/2018_bucld/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      <guid>/talk/2018_bucld/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2018_bucld/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local constraint is inhibited by global context in concessive structures</title>
-      <link>/talk/2018_cuny_poster3/</link>
+      <link>https://jesseharris.netlify.app/talk/2018_cuny_poster3/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      <guid>/talk/2018_cuny_poster3/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2018_cuny_poster3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictive processing and reliability in the influence of prosody in L2 structural analysis</title>
-      <link>/talk/2018_cuny_poster2/</link>
+      <link>https://jesseharris.netlify.app/talk/2018_cuny_poster2/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      <guid>/talk/2018_cuny_poster2/</guid>
+      <guid>https://jesseharris.netlify.app/talk/2018_cuny_poster2/</guid>
       <description></description>
     </item>
     
