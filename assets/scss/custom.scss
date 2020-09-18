@@ -1,0 +1,71 @@
+// Override this file to add your own SCSS styling.
+
+// https://www.connorrothschild.com/post/animate-hugo-academic/
+
+// https://raw.githubusercontent.com/connorrothschild/animate-hugo-academic/master/assets/scss/custom.scss
+
+#about {
+
+  @-webkit-keyframes slide-from-right {
+    0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
+    100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+  }
+
+  @keyframes slide-from-right {
+    0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
+    100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+  }
+
+  .biography-title {
+    -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+            animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  }
+
+  .main-content {
+    -webkit-animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+            animation: slide-from-right 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+    -webkit-animation-delay: 100ms;
+            animation-delay: 100ms;
+  }
+
+  @-webkit-keyframes slide-from-left {
+    0% {-webkit-transform: translateX(-150%);transform: translateX(-150%)}
+    100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+  }
+
+  @keyframes slide-from-left {
+    0% {-webkit-transform: translateX(-150%);transform: translateX(-150%)}
+    100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+  }
+
+  #profile {
+    -webkit-animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+            animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  }
+
+  @-webkit-keyframes fade-in {
+    0% {opacity: 0}
+    100% {opacity: 1}
+  }
+
+  @keyframes fade-in {
+    0% {opacity: 0}
+    100% {opacity: 1}
+  }
+
+  .interests-div {
+    opacity: 0;
+    -webkit-animation: fade-in 1s forwards;
+            animation: fade-in 1s forwards;
+    -webkit-animation-delay: 1s;
+            animation-delay: 1s;
+  }
+
+  .education-div {
+    opacity: 0;
+    -webkit-animation: fade-in 1s forwards;
+            animation: fade-in 1s forwards;
+    -webkit-animation-delay: 1.5s;
+            animation-delay: 1.5s;
+  }
+}
