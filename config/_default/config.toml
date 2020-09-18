@@ -10,18 +10,18 @@ title = "JESSE HARRIS"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://jesseharris.netlify.app/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy; Jesse Harris"
 
 ############################
 ## Advanced options below ##
 ############################
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true # false
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"

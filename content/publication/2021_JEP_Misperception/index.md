@@ -1,5 +1,5 @@
 +++
-title = "Contextual constraint and lexical competition: The misperception hypothesis revisited"
+title = "Contextual constraint and lexical competition: Revisiting biased misperception during reading"
 # date = 2013-07-01T00:00:00
 date = 2020-09-01
 draft = false

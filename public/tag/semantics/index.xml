@@ -5,7 +5,7 @@
     <link>/tag/semantics/</link>
       <atom:link href="/tag/semantics/index.xml" rel="self" type="application/rss+xml" />
     <description>semantics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 -0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>semantics</title>
@@ -81,14 +81,6 @@
       <link>/publication/2012_domain/</link>
       <pubDate>Wed, 01 Feb 2012 00:00:00 -0800</pubDate>
       <guid>/publication/2012_domain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>University of Massachusetts Occasional Papers in Linguistics: Processing Linguistic Structure</title>
-      <link>/publication/2011_psych_umop/</link>
-      <pubDate>Tue, 01 Feb 2011 00:00:00 -0800</pubDate>
-      <guid>/publication/2011_psych_umop/</guid>
       <description></description>
     </item>
     

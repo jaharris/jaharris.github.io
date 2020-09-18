@@ -5,7 +5,7 @@
     <link>/tag/reading/</link>
       <atom:link href="/tag/reading/index.xml" rel="self" type="application/rss+xml" />
     <description>reading</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 -0700</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>reading</title>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Contextual constraint and lexical competition: The misperception hypothesis revisited</title>
+      <title>Contextual constraint and lexical competition: Revisiting biased misperception during reading</title>
       <link>/publication/2021_jep_misperception/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 -0700</pubDate>
       <guid>/publication/2021_jep_misperception/</guid>
