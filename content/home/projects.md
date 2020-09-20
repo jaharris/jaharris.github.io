@@ -75,7 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
-How does the language processing system make efficient use of multiple sources of information to produce a sufficiently rich representation? What information may go underspecified? How does grammatical knowledge constrain representations considered during online sentence processing? Again 2
+How does the language processing system make efficient use of multiple sources of information to produce a sufficiently rich representation? What information may go underspecified? How does grammatical knowledge constrain representations considered during online sentence processing?
 
 For more details, please refer to this [overview]({{< relref "post/overview.md" >}}) of my research agenda or my [cv](https://www.dropbox.com/s/itbulpdm4bxy5z5/JesseHarris_CV.pdf?dl=0).
 Ongoing research is also described on the [UCLA Language Processing Lab page](http://processing.linguistics.ucla.edu/).
