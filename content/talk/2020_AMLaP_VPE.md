@@ -1,5 +1,5 @@
 +++
-title = "Morphological identity and voice mismatch in VP ellipsis: An interference-based account"
+title = "Effects of morphological identity and voice mismatch in VP ellipsis"
 date = 2020-09-04T00:00:00  # Schedule page publish date.
 # date = 2018-11-03
 draft = false
