@@ -5,12 +5,20 @@
     <link>https://jesseharris.netlify.app/tag/prosody/</link>
       <atom:link href="https://jesseharris.netlify.app/tag/prosody/index.xml" rel="self" type="application/rss+xml" />
     <description>prosody</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Sun, 24 May 2020 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Thu, 05 Nov 2020 00:00:00 -0800</lastBuildDate>
     <image>
       <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>prosody</title>
       <link>https://jesseharris.netlify.app/tag/prosody/</link>
     </image>
+    
+    <item>
+      <title>Learning to anticipate with unconventional prosodic mappings: The L2 advantage</title>
+      <link>https://jesseharris.netlify.app/talk/2020_bucld45/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 -0800</pubDate>
+      <guid>https://jesseharris.netlify.app/talk/2020_bucld45/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning to anticipate contrast with prosody: A visual world study with L2 learners</title>

@@ -1,7 +1,7 @@
 +++
 title = "Contextual constraint and lexical competition: Revisiting biased misperception during reading"
 # date = 2013-07-01T00:00:00
-date = 2020-09-01
+date = 2021-01-02
 draft = false
 
 # Authors. Comma separated list, e.g. `["Jesse A. Harris"]`.
@@ -19,7 +19,7 @@ authors = ["Jesse A. Harris", "Stephanie Rich", "Ian Rigby"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "To appear in *Journal of Experimental Psychology: Human Perception and Performance*"
+publication = "*Journal of Experimental Psychology: Human Perception and Performance*"
 # publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.

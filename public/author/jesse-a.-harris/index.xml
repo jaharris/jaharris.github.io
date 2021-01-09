@@ -5,7 +5,7 @@
     <link>https://jesseharris.netlify.app/author/jesse-a.-harris/</link>
       <atom:link href="https://jesseharris.netlify.app/author/jesse-a.-harris/index.xml" rel="self" type="application/rss+xml" />
     <description>Jesse A. Harris</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Fri, 04 Sep 2020 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Mon, 04 Jan 2021 00:00:00 -0800</lastBuildDate>
     <image>
       <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jesse A. Harris</title>
@@ -13,26 +13,42 @@
     </image>
     
     <item>
-      <title>Effects of morphological identity and voice mismatch in VP ellipsis</title>
-      <link>https://jesseharris.netlify.app/talk/2020_amlap_vpe/</link>
-      <pubDate>Fri, 04 Sep 2020 00:00:00 -0700</pubDate>
-      <guid>https://jesseharris.netlify.app/talk/2020_amlap_vpe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Acceptability Judgments at the Syntax­-Semantics Interface</title>
-      <link>https://jesseharris.netlify.app/publication/2021_handbook/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 -0700</pubDate>
-      <guid>https://jesseharris.netlify.app/publication/2021_handbook/</guid>
+      <title>Extended perspective shift and discourse economy in language processing</title>
+      <link>https://jesseharris.netlify.app/publication/2021_frontiers_perspective/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 -0800</pubDate>
+      <guid>https://jesseharris.netlify.app/publication/2021_frontiers_perspective/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contextual constraint and lexical competition: Revisiting biased misperception during reading</title>
       <link>https://jesseharris.netlify.app/publication/2021_jep_misperception/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 -0800</pubDate>
       <guid>https://jesseharris.netlify.app/publication/2021_jep_misperception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acceptability Judgments at the Syntax­-Semantics Interface</title>
+      <link>https://jesseharris.netlify.app/publication/2021_handbook/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 -0800</pubDate>
+      <guid>https://jesseharris.netlify.app/publication/2021_handbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to anticipate with unconventional prosodic mappings: The L2 advantage</title>
+      <link>https://jesseharris.netlify.app/talk/2020_bucld45/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 -0800</pubDate>
+      <guid>https://jesseharris.netlify.app/talk/2020_bucld45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of morphological identity and voice mismatch in VP ellipsis</title>
+      <link>https://jesseharris.netlify.app/talk/2020_amlap_vpe/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 -0700</pubDate>
+      <guid>https://jesseharris.netlify.app/talk/2020_amlap_vpe/</guid>
       <description></description>
     </item>
     

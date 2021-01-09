@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jesseharris.netlify.app/tag/acceptability/</loc>
-    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/adrian-brasoveanu/</loc>
-    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
+    <loc>https://jesseharris.netlify.app/publication-type/2/</loc>
+    <lastmod>2021-01-04T00:00:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jesseharris.netlify.app/authors/</loc>
-    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
+    <lastmod>2021-01-04T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/talk/2020_amlap_vpe/</loc>
-    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
+    <loc>https://jesseharris.netlify.app/tag/discourse/</loc>
+    <lastmod>2021-01-04T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/tag/ellipsis/</loc>
-    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
+    <loc>https://jesseharris.netlify.app/publication/2021_frontiers_perspective/</loc>
+    <lastmod>2021-01-04T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/tag/free-indirect-discourse/</loc>
+    <lastmod>2021-01-04T00:00:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jesseharris.netlify.app/author/jesse-a.-harris/</loc>
-    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
+    <lastmod>2021-01-04T00:00:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jesseharris.netlify.app/</loc>
-    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
+    <lastmod>2021-01-04T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/tag/perspective/</loc>
+    <lastmod>2021-01-04T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/publication_types/</loc>
+    <lastmod>2021-01-04T00:00:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jesseharris.netlify.app/tags/</loc>
-    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
+    <lastmod>2021-01-04T00:00:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/publication-type/2/</loc>
-    <lastmod>2020-09-20T12:50:55-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication-type/6/</loc>
-    <lastmod>2020-09-18T13:39:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2021_handbook/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+    <loc>https://jesseharris.netlify.app/tag/tense/</loc>
+    <lastmod>2021-01-04T00:00:00-08:00</lastmod>
   </url>
   
   <url>
@@ -78,23 +78,28 @@
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/publication_types/</loc>
-    <lastmod>2020-09-20T12:50:55-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jesseharris.netlify.app/tag/reading/</loc>
     <lastmod>2020-09-18T13:39:11-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/tag/semantics/</loc>
+    <loc>https://jesseharris.netlify.app/author/stephanie-rich/</loc>
+    <lastmod>2020-09-18T13:39:11-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/publication-type/6/</loc>
+    <lastmod>2020-09-18T13:39:11-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/publication/2021_handbook/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/author/stephanie-rich/</loc>
-    <lastmod>2020-09-18T13:39:11-07:00</lastmod>
+    <loc>https://jesseharris.netlify.app/tag/semantics/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
   </url>
   
   <url>
@@ -108,7 +113,7 @@
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/talk/2020_speechprosody/</loc>
+    <loc>https://jesseharris.netlify.app/talk/2020_bucld45/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
   </url>
   
@@ -129,6 +134,31 @@
   
   <url>
     <loc>https://jesseharris.netlify.app/tag/visual-world/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/tag/acceptability/</loc>
+    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/author/adrian-brasoveanu/</loc>
+    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/talk/2020_amlap_vpe/</loc>
+    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/tag/ellipsis/</loc>
+    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/talk/2020_speechprosody/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
   </url>
   
@@ -454,11 +484,6 @@
   
   <url>
     <loc>https://jesseharris.netlify.app/tag/parentheticals/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/perspective/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
   </url>
   
@@ -898,17 +923,7 @@
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/tag/free-indirect-discourse/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jesseharris.netlify.app/talk/2014_cuny_fid/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/tense/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
   </url>
   

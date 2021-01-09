@@ -1,7 +1,7 @@
 +++
 title = "Acceptability Judgments at the Syntax­-Semantics Interface"
 # date = 2013-07-01T00:00:00
-date = 2020-09-01
+date = 2021-01-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Jesse A. Harris"]`.

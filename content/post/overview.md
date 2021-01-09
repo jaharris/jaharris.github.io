@@ -98,6 +98,8 @@ This page is in progress...
 
 *Projects*
 
+1. Harris, Jesse A. (accepted). Extended [perspective shift]({{< relref "2021_Frontiers_Perspective" >}}) and discourse economy in language processing. *Frontiers - Special issue on [Perspective in Language Taking](https://www.frontiersin.org/research-topics/13295/perspective-taking-in-language).*
+<br><br>
 1. Harris, Jesse A. (2014). Signaling [non-speaker commitment in transparent free relatives]({{< relref "/publication/2014_TFR" >}}): A paired speaker-hearer judgment study. In V. Rieser and R. Muller (Eds.), The Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue, pp. 71–79. Edinburgh, Scotland.
 <br><br>
 1. Harris, Jesse A. & Christopher Potts (2011). Predicting [perspectival orientation for appositives]({{< relref "/publication/2011_Appos" >}}). In Proceedings from the 45th Annual Meeting of the Chicago Linguistic Society.
@@ -116,14 +118,14 @@ This page is in progress...
 
 *Projects*
 
-1. Harris, Jesse A., & Stephanie Rich (in progress). Predicted analyses linger: The case for structural prediction with either-or structures. Ms. UCLA. Poster presented at [CUNY 2017]({{< relref "/talk/2017_CUNY_Either" >}})
+1. Harris, Jesse A., & Stephanie Rich (revision in progress). Predicted analyses linger: The case for structural prediction with either-or structures. Ms. UCLA. Poster presented at [CUNY 2017]({{< relref "/talk/2017_CUNY_Either" >}}).
 <br><br>
-1. Rich, Stephanie, & Jesse A. Harris. (in progress). Local constraint is inhibited by global context in concessive structures. Ms. UCLA. Poster presented at [CUNY 2018]({{< relref "/talk/2018_CUNY_poster3" >}})
+1. Rich, Stephanie, & Jesse A. Harris. (in progress). Local constraint is inhibited by global context in concessive structures. Ms. UCLA. Poster presented at [CUNY 2018]({{< relref "/talk/2018_CUNY_poster3" >}}).
 <br><br>
 1. Rich, Stephanie & Jesse A. Harris (in progress). The [limits of forward thinking]({{< relref "talk/2019_PIPP_Both" >}}): Structural prediction with correlative and quantificational *both*. Talk presented at the Psycholinguistics in Iceland
   – Parsing and Prediction (PIPP). Verold, University of Iceland, Reykjavik, June 19--20, 2019.
 <br><br>  
-1. Harris, Jesse A., Stephanie Rich, & Ian Rigby (accepted). Contextual constraint and lexical competition: Revisiting [biased misperception]({{< relref "/publication/2019_ICPhS_Adapt" >}}) during reading. Journal of Experimental Psychology: Human Perception and Performance.
+1. Harris, Jesse A., Stephanie Rich, & Ian Rigby (2021). Contextual constraint and lexical competition: Revisiting [biased misperception]({{< relref "/publication/2019_ICPhS_Adapt" >}}) during reading. Journal of Experimental Psychology: Human Perception and Performance, 47, 81-102.
 <br><br>
 1. Chie Nakamura, Jesse A. Harris, Sun-Ah Jun (2020). Learning to [anticipate contrast]({{< relref "/publication/2021_JEP_Misperception" >}}) with prosody: A Visual world study with L2 learners. Proceedings of the 10th Speech Prosody International Conference.
 <br><br>

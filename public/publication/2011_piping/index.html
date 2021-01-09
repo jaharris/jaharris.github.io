@@ -366,7 +366,7 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1></h1>
+          <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
           <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
@@ -375,7 +375,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="" autocapitalize="off"
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
         
       </div>
@@ -416,7 +416,7 @@
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="">
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fas fa-bars"></i></span>
     </button>
     
@@ -661,7 +661,7 @@
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
       <li class="nav-item">
-        <a class="nav-link js-search" href="#" aria-label=""><i class="fas fa-search" aria-hidden="true"></i></a>
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
       </li>
       
 
@@ -795,14 +795,14 @@
 
 
 <a class="btn btn-outline-primary my-1 mr-1" href="/files/papers/all/CableHarris2011-UMOP.pdf" target="_blank" rel="noopener">
-  
+  PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
         data-filename="/publication/2011_piping/cite.bib">
-  
+  Cite
 </button>
 
 
@@ -830,7 +830,7 @@
   <div class="article-container">
 
     
-    <h3></h3>
+    <h3>Abstract</h3>
     <p class="pub-abstract">We report a series of sentence-rating experiments designed to test the recent claim that pied-piping of PPs in English is an instance of &lsquo;massive pied-piping&rsquo; (Heck 2008, Cable 2010). We find that the relatively subtle judgments informally reported in the existing literature on pied-piping can in fact be replicated in a formal experimental setting. The resulting data support the claim that (unforced) pied-piping of PPs in English is a para-grammatical phenomenon, and that P-stranding in English is (essentially) obligatory where it is possible (Heck 2008). Furthermore, these studies provide further evidence that informally reported judgments - even very subtle ones - can indeed be rigorously replicated using formal experimental methods.<br><br></p>
     
 
@@ -839,12 +839,12 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading"></div>
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             
             
             <a href="/publication/#6">
-              Uncategorized
+              Book section
             </a>
             
           </div>
@@ -860,7 +860,7 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading"></div>
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
           <div class="col-12 col-md-9"><em>University of Massachusetts Occasional Papers in Linguistics: Processing Linguistic Structure</em>, 38, 1-22</div>
         </div>
       </div>
@@ -1073,13 +1073,13 @@
     
     <script>
       const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"","placeholder":"","results":""};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
-        'post': "",
-        'project': "",
-        'publication' : "",
-        'talk' : "",
-        'slides' : ""
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
         };
     </script>
     
@@ -1187,7 +1187,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title"></h5>
+        <h5 class="modal-title">Cite</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -1197,10 +1197,10 @@
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> 
+          <i class="fas fa-copy"></i> Copy
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> 
+          <i class="fas fa-download"></i> Download
         </a>
         <div id="modal-error"></div>
       </div>

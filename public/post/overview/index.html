@@ -364,7 +364,7 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1></h1>
+          <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
           <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
@@ -373,7 +373,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="" autocapitalize="off"
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
         
       </div>
@@ -414,7 +414,7 @@
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="">
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fas fa-bars"></i></span>
     </button>
     
@@ -659,7 +659,7 @@
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
       <li class="nav-item">
-        <a class="nav-link js-search" href="#" aria-label=""><i class="fas fa-search" aria-hidden="true"></i></a>
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
       </li>
       
 
@@ -741,7 +741,7 @@
     
     
       
-          
+          Last updated on
       
     
     Sep 20, 2020
@@ -753,7 +753,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    5 
+    5 min read
   </span>
   
 
@@ -853,6 +853,10 @@ Davis, CA, July 14 2019.
 <br>
 <p><em>Projects</em></p>
 <ol>
+<li>Harris, Jesse A. (accepted). Extended 
+<a href="/publication/2021_frontiers_perspective/">perspective shift</a> and discourse economy in language processing. <em>Frontiers - Special issue on 
+<a href="https://www.frontiersin.org/research-topics/13295/perspective-taking-in-language" target="_blank" rel="noopener">Perspective in Language Taking</a>.</em>
+<br><br></li>
 <li>Harris, Jesse A. (2014). Signaling 
 <a href="/publication/2014_tfr/">non-speaker commitment in transparent free relatives</a>: A paired speaker-hearer judgment study. In V. Rieser and R. Muller (Eds.), The Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue, pp. 71–79. Edinburgh, Scotland.
 <br><br></li>
@@ -870,18 +874,18 @@ Davis, CA, July 14 2019.
 <br>
 <p><em>Projects</em></p>
 <ol>
-<li>Harris, Jesse A., &amp; Stephanie Rich (in progress). Predicted analyses linger: The case for structural prediction with either-or structures. Ms. UCLA. Poster presented at 
-<a href="/talk/2017_cuny_either/">CUNY 2017</a>
+<li>Harris, Jesse A., &amp; Stephanie Rich (revision in progress). Predicted analyses linger: The case for structural prediction with either-or structures. Ms. UCLA. Poster presented at 
+<a href="/talk/2017_cuny_either/">CUNY 2017</a>.
 <br><br></li>
 <li>Rich, Stephanie, &amp; Jesse A. Harris. (in progress). Local constraint is inhibited by global context in concessive structures. Ms. UCLA. Poster presented at 
-<a href="/talk/2018_cuny_poster3/">CUNY 2018</a>
+<a href="/talk/2018_cuny_poster3/">CUNY 2018</a>.
 <br><br></li>
 <li>Rich, Stephanie &amp; Jesse A. Harris (in progress). The 
 <a href="/talk/2019_pipp_both/">limits of forward thinking</a>: Structural prediction with correlative and quantificational <em>both</em>. Talk presented at the Psycholinguistics in Iceland
 – Parsing and Prediction (PIPP). Verold, University of Iceland, Reykjavik, June 19&ndash;20, 2019.
 <br><br></li>
-<li>Harris, Jesse A., Stephanie Rich, &amp; Ian Rigby (accepted). Contextual constraint and lexical competition: Revisiting 
-<a href="/publication/2019_icphs_adapt/">biased misperception</a> during reading. Journal of Experimental Psychology: Human Perception and Performance.
+<li>Harris, Jesse A., Stephanie Rich, &amp; Ian Rigby (2021). Contextual constraint and lexical competition: Revisiting 
+<a href="/publication/2019_icphs_adapt/">biased misperception</a> during reading. Journal of Experimental Psychology: Human Perception and Performance, 47, 81-102.
 <br><br></li>
 <li>Chie Nakamura, Jesse A. Harris, Sun-Ah Jun (2020). Learning to 
 <a href="/publication/2021_jep_misperception/">anticipate contrast</a> with prosody: A Visual world study with L2 learners. Proceedings of the 10th Speech Prosody International Conference.
@@ -1220,13 +1224,13 @@ Davis, CA, July 14 2019.
     
     <script>
       const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"","placeholder":"","results":""};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
-        'post': "",
-        'project': "",
-        'publication' : "",
-        'talk' : "",
-        'slides' : ""
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
         };
     </script>
     
@@ -1334,7 +1338,7 @@ Davis, CA, July 14 2019.
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title"></h5>
+        <h5 class="modal-title">Cite</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -1344,10 +1348,10 @@ Davis, CA, July 14 2019.
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> 
+          <i class="fas fa-copy"></i> Copy
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> 
+          <i class="fas fa-download"></i> Download
         </a>
         <div id="modal-error"></div>
       </div>
