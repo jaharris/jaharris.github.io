@@ -19,7 +19,7 @@ authors = ["Jesse A. Harris"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "To appear *Frontiers - Special issue on Perspective in Language Taking*"
+publication = "To appear *Frontiers - Special issue on Perspective Taking in Language*"
 # publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.

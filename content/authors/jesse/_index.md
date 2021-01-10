@@ -90,4 +90,4 @@ Before UCLA, I was an assistant professor at [Pomona College](https://www.pomona
 
 I am an organizer for the California Meeting on Psycholinguistics (CAMP), and hosted the inaugural meeting at [UCLA in 2017](https://sites.google.com/view/camp-ucla2017/home). [CAMP 2018](https://sites.google.com/view/camp-usc2018/) was held at the University of Southern California. [CAMP 2019](https://sites.google.com/view/camp-ucsc/) was held at UC Santa Cruz. CAMP 2021 will be held virtually at UC Irvine.
 
-Finally, I lead the Psycholinguistics / Neurolinguistics Seminar most quarters; the current schedule may be found [here](https://linguistics.ucla.edu/psy-sem-schedule/).
+Finally, I often lead the Psycholinguistics / Neurolinguistics Seminar; the current schedule may be found [here](https://linguistics.ucla.edu/psy-sem-schedule/).

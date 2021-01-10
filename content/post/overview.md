@@ -98,7 +98,7 @@ This page is in progress...
 
 *Projects*
 
-1. Harris, Jesse A. (accepted). Extended [perspective shift]({{< relref "2021_Frontiers_Perspective" >}}) and discourse economy in language processing. *Frontiers - Special issue on [Perspective in Language Taking](https://www.frontiersin.org/research-topics/13295/perspective-taking-in-language).*
+1. Harris, Jesse A. (accepted). Extended [perspective shift]({{< relref "2021_Frontiers_Perspective" >}}) and discourse economy in language processing. *Frontiers - Special issue on [Perspective Taking in Language](https://www.frontiersin.org/research-topics/13295/perspective-taking-in-language).*
 <br><br>
 1. Harris, Jesse A. (2014). Signaling [non-speaker commitment in transparent free relatives]({{< relref "/publication/2014_TFR" >}}): A paired speaker-hearer judgment study. In V. Rieser and R. Muller (Eds.), The Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue, pp. 71–79. Edinburgh, Scotland.
 <br><br>
