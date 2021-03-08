@@ -19,7 +19,7 @@ authors = ["Chie Nakamura", "Jesse A. Harris", "Sun-Ah Jun", "Yuki Hirose"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*BUCLD 43: Proceedings of the 43rd annual Boston University Conference on Language Development. Medford, MA: Cascadilla Press*"
+publication = "*BUCLD 43: Proceedings of the 43rd Annual Boston University Conference on Language Development. Medford, MA: Cascadilla Press*"
 # publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
