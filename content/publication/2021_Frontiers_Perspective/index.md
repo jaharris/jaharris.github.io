@@ -1,7 +1,7 @@
 +++
 title = "Extended perspective shift and discourse economy in language processing"
 # date = 2013-07-01T00:00:00
-date = 2021-01-04
+date = 2021-04-04
 draft = false
 
 # Authors. Comma separated list, e.g. `["Jesse A. Harris"]`.
@@ -19,7 +19,7 @@ authors = ["Jesse A. Harris"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "To appear *Frontiers - Special issue on Perspective Taking in Language*"
+publication = "*Frontiers - Special issue on Perspective Taking in Language*"
 # publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
