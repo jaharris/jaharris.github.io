@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Canaan Breiss | JESSE HARRIS</title>
-    <link>https://jesseharris.netlify.app/author/canaan-breiss/</link>
-      <atom:link href="https://jesseharris.netlify.app/author/canaan-breiss/index.xml" rel="self" type="application/rss+xml" />
-    <description>Canaan Breiss</description>
+    <title>lexical retrieval | JESSE HARRIS</title>
+    <link>https://jesseharris.netlify.app/tag/lexical-retrieval/</link>
+      <atom:link href="https://jesseharris.netlify.app/tag/lexical-retrieval/index.xml" rel="self" type="application/rss+xml" />
+    <description>lexical retrieval</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Tue, 20 Apr 2021 00:00:00 -0700</lastBuildDate>
     <image>
       <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Canaan Breiss</title>
-      <link>https://jesseharris.netlify.app/author/canaan-breiss/</link>
+      <title>lexical retrieval</title>
+      <link>https://jesseharris.netlify.app/tag/lexical-retrieval/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://jesseharris.netlify.app/talk/2021_cogsci_stressclash/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 -0700</pubDate>
       <guid>https://jesseharris.netlify.app/talk/2021_cogsci_stressclash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The online advantage of repairing metrical structure: Stress shift in pupillometry</title>
-      <link>https://jesseharris.netlify.app/talk/2020_cuny_stress/</link>
-      <pubDate>Wed, 18 Mar 2020 00:00:00 -0700</pubDate>
-      <guid>https://jesseharris.netlify.app/talk/2020_cuny_stress/</guid>
       <description></description>
     </item>
     
