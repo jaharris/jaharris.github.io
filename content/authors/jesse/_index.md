@@ -72,6 +72,7 @@ social:
   icon_pack: ai
   link: https://www.dropbox.com/s/itbulpdm4bxy5z5/JesseHarris_CV.pdf?dl=0
 
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 

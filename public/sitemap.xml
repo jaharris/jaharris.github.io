@@ -3,37 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jesseharris.netlify.app/publication-type/1/</loc>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jesseharris.netlify.app/author/amanda-rysling/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jesseharris.netlify.app/authors/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jesseharris.netlify.app/author/canaan-breiss/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jesseharris.netlify.app/tag/corpus/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/tag/individual-differences/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
+    <loc>https://jesseharris.netlify.app/tag/eye-movements/</loc>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jesseharris.netlify.app/author/jesse-a.-harris/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jesseharris.netlify.app/</loc>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/publication/2021_cogsci_larcid/</loc>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/tag/metrical-structure/</loc>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/publication_types/</loc>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/tag/pupillometry/</loc>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/tag/reading/</loc>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/author/stephanie-rich/</loc>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/tag/stress-clash/</loc>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/tags/</loc>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/publication/2021_cogsci_stressclash/</loc>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/publication/2021_cogsci_unexpectedguests/</loc>
+    <lastmod>2021-06-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/tag/individual-differences/</loc>
     <lastmod>2021-04-20T17:49:35-07:00</lastmod>
   </url>
   
@@ -44,7 +104,7 @@
   
   <url>
     <loc>https://jesseharris.netlify.app/tag/lexical-retrieval/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
+    <lastmod>2021-04-20T18:04:51-07:00</lastmod>
   </url>
   
   <url>
@@ -54,42 +114,17 @@
   
   <url>
     <loc>https://jesseharris.netlify.app/tag/metrical-prediction/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
+    <lastmod>2021-04-20T18:04:51-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jesseharris.netlify.app/tag/poster/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/pupillometry/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/reading/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/stephanie-rich/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/stress-clash/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tags/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
+    <lastmod>2021-04-20T18:04:51-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jesseharris.netlify.app/talk/2021_cogsci_stressclash/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
+    <lastmod>2021-04-20T18:04:51-07:00</lastmod>
   </url>
   
   <url>
@@ -123,18 +158,8 @@
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/publication_types/</loc>
-    <lastmod>2021-04-09T17:46:06-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jesseharris.netlify.app/tag/tense/</loc>
     <lastmod>2021-04-09T17:46:06-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication-type/1/</loc>
-    <lastmod>2021-03-08T15:57:12-08:00</lastmod>
   </url>
   
   <url>
@@ -1304,11 +1329,6 @@
   
   <url>
     <loc>https://jesseharris.netlify.app/tag/concealed-questions/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/eye-movements/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
   </url>
   
