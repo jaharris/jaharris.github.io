@@ -31,29 +31,51 @@ weight = 65
 
 > Robodoc is  a Python program that automatically cleans eye tracking data of blinks and track losses. This new version improves usability and command line options. Learn more about this handy code [here](http://blogs.umass.edu/eyelab/software/).
 
-<br>
+<br><br>
 
 ***
 
 ## Corpus tools
 
+
+### Linguistic diversity in California
+
+> This [tutorial](https://rpubs.com/jesseharris/715935) shows how to use R to access the [US Census](https://www.census.gov/) to visualize language families spoken in  the United States. The interactive Shiny app below illustrates how various languages are distributed in California according to the 2012 American Community Survey.
+
+<br>
+
+<iframe src = "https://jesse-harris.shinyapps.io/ShinyMap/" height = 600px, width = 780px, border = 0>
+</iframe>
+
+<br>
+
+> A fully executable [R Markdown](https://rmarkdown.rstudio.com/) tutorial is hosted on [github](https://github.com/jaharris/Linguistic_Diversity_CA). To clone with git, run this command from the terminal:
+
+```
+git clone https://github.com/jaharris/Linguistic_Diversity_CA.git
+```
+
+<br>
+
+
 ### Embedded appositives corpus
 
 > The [Embedded Appositives Corpus](http://www.christopherpotts.net/ling/data/embeddedappositives/) is an annotated collection of 278 sentences containing appositives embedded syntactically in the complement of propositional attitude predicates and verbs of saying, drawn from 177 million words of novels, newspaper articles, and TV transcripts. Intended to inform work on appositives, conventional implicatures, and textual entailment. Includes a Javascript interface, an XML corpus, and a short write-up describing the data and their theoretical relevance.
 
+<br>
 
 ### NPR Corpus scraper
 
 > THE NPR Corpus scraper is a collection of Python programs built to crawl NPR and download transcripts into XML format, with links to audio files of radio interviews into a directory. It can be tweaked to crawl other news sites. Note: this tool requires a working knowledge of Python. To be posted with instructions soon!
 
-<br>
+<br><br>
 
 
 ***
 
 ## Trends for academic posts in linguistics
 
-> The script downloads the Linguist List job posting [archives](http://linguistlist.org/jobs/browse-previous-jobs2.cfm) for the years specified below. After some reformatting, it removes all but tenture track job postings and categorizes the jobs according to keywords listed in the posting. The method for categorization largely follows previous efforts; see the Language Log postings on the [2008 data](http://languagelog.ldc.upenn.edu/nll/?p=1067), [2009 data](http://languagelog.ldc.upenn.edu/nll/?p=1491), and [2009-2012 data](http://languagelog.ldc.upenn.edu/nll/?p=4349).
+> The script downloads the Linguist List job posting [archives](http://linguistlist.org/jobs/browse-previous-jobs2.cfm) for the years specified below. After some reformatting, it removes all but tenure track job postings and categorizes the jobs according to keywords listed in the posting. The method for categorization largely follows previous efforts; see the Language Log postings on the [2008 data](http://languagelog.ldc.upenn.edu/nll/?p=1067), [2009 data](http://languagelog.ldc.upenn.edu/nll/?p=1491), and [2009-2012 data](http://languagelog.ldc.upenn.edu/nll/?p=4349).
 
 <br>
 
@@ -62,13 +84,13 @@ weight = 65
 
 <br>
 
-> A fully executable [R Markdown](https://rmarkdown.rstudio.com/) tutorial is hosted on [github](https://github.com/jaharris/linglist-scrape). To clone with git into a folder called scrape, run this command from the terminal:
+> A fully executable [R Markdown](https://rmarkdown.rstudio.com/) tutorial is hosted on [github](https://github.com/jaharris/linglist-scrape). To clone with git, run this command from the terminal:
 
 ```
-git clone https://github.com/jaharris/linglist-scrape.git scrape
+git clone https://github.com/jaharris/linglist-scrape.git
 ```
 
-<br>
+<br><br>
 
 ***
 

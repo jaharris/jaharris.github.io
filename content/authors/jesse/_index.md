@@ -22,7 +22,7 @@ bio: My research interests center on how syntactic and semantic representations 
 
 interests:
 - Psycholinguistics
-- Experimental Linguistics
+- Experimental linguistics
 - Formal semantics and pragmatics
 - Ellipsis structures
 - Focus and information structure
@@ -83,12 +83,14 @@ email: ""
 # - Visitors
 ---
 
-I am an associate professor at [UCLA](http://www.ucla.edu/) in the Department of [Linguistics](http://www.linguistics.ucla.edu/), and director of the UCLA [Language Processing Lab](http://processing.linguistics.ucla.edu/). My research investigates how language users develop a sufficiently rich linguistic meaning during online comprehension. Recent topics include the processing of ellipsis and the assignment of focus, as well as the role of other semantic, pragmatic, and prosodic defaults in sentence interpretation.
+I am an associate professor at [UCLA](http://www.ucla.edu/) in the Department of [Linguistics](http://www.linguistics.ucla.edu/), and advise the UCLA [Language Processing Lab](http://processing.linguistics.ucla.edu/). My research investigates how language users develop a sufficiently rich linguistic meaning during online comprehension. Recent topics include the processing of ellipsis and the assignment of focus, as well as the role of other semantic, pragmatic, and prosodic defaults in sentence interpretation.
 
-I am committed to using experimental methods in my research, including Internet based questionnaires, corpora, and online methods such as self-paced reading and eye tracking. See this [page](http://processing.linguistics.ucla.edu/resources.html) for a description of the various methods and data collection tools used in the lab.
+I am committed to using experimental methods in my research, including Internet-based questionnaires, corpora, and online methods such as self-paced reading and eye tracking. See this [page](http://processing.linguistics.ucla.edu/resources.html) for a description of the various methods and data collection tools used in the lab.
 
 Before UCLA, I was an assistant professor at [Pomona College](https://www.pomona.edu/), in the Department of [Linguistics & Cognitive Science](https://www.pomona.edu/academics/departments/linguistics-cognitive-science).
 
 I am an organizer for the California Meeting on Psycholinguistics (CAMP), and hosted the inaugural meeting at [UCLA in 2017](https://sites.google.com/view/camp-ucla2017/home). [CAMP 2018](https://sites.google.com/view/camp-usc2018/) was held at the University of Southern California. [CAMP 2019](https://sites.google.com/view/camp-ucsc/) was held at UC Santa Cruz. [CAMP 2021](https://sites.google.com/view/camp-2021/home) will be held virtually at UC Irvine.
+
+As a person who stutters, I'm proud to serve on the Board of Directors of the [Stuttering Scholarship Alliance](https://www.stutteringservice.org/), a non-profit dedicated to providing acceptance-based speech therapy to people in underserved communities, as well as resources on disability rights for students who stutter and education for speech-language pathologists in training.
 
 Finally, I regularly participate in the Psycholinguistics / Neurolinguistics Seminar; the current schedule may be found [here](https://linguistics.ucla.edu/psy-sem-schedule/).
