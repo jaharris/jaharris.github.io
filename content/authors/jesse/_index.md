@@ -91,6 +91,6 @@ Before UCLA, I was an assistant professor at [Pomona College](https://www.pomona
 
 I am an organizer for the California Meeting on Psycholinguistics (CAMP), and hosted the inaugural meeting at [UCLA in 2017](https://sites.google.com/view/camp-ucla2017/home). [CAMP 2018](https://sites.google.com/view/camp-usc2018/) was held at the University of Southern California. [CAMP 2019](https://sites.google.com/view/camp-ucsc/) was held at UC Santa Cruz. [CAMP 2021](https://sites.google.com/view/camp-2021/home) will be held virtually at UC Irvine.
 
-As a person who stutters, I'm proud to serve on the Board of Directors of the [Stuttering Scholarship Alliance](https://www.stutteringservice.org/), a non-profit dedicated to providing acceptance-based speech therapy to people in underserved communities, as well as resources on disability rights for students who stutter and education for speech-language pathologists in training.
+As a person who stutters, I'm proud to serve on the Board of Directors of the [Stuttering Scholarship Alliance](https://www.stutteringservice.org/), a non-profit dedicated to facilitating access to acceptance-based speech therapy to people in underserved communities, as well as providing resources on disability rights for students who stutter and education for speech-language pathologists in training.
 
 Finally, I regularly participate in the Psycholinguistics / Neurolinguistics Seminar; the current schedule may be found [here](https://linguistics.ucla.edu/psy-sem-schedule/).
