@@ -366,7 +366,7 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1></h1>
+          <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
           <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
@@ -375,7 +375,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="" autocapitalize="off"
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
         
       </div>
@@ -416,7 +416,7 @@
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="">
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fas fa-bars"></i></span>
     </button>
     
@@ -661,7 +661,7 @@
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
       <li class="nav-item">
-        <a class="nav-link js-search" href="#" aria-label=""><i class="fas fa-search" aria-hidden="true"></i></a>
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
       </li>
       
 
@@ -795,14 +795,14 @@
 
 
 <a class="btn btn-outline-primary my-1 mr-1" href="/files/papers/all/Harris-et-al2013-LCP.pdf" target="_blank" rel="noopener">
-  
+  PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
         data-filename="/publication/2012_most/cite.bib">
-  
+  Cite
 </button>
 
 
@@ -830,7 +830,7 @@
   <div class="article-container">
 
     
-    <h3></h3>
+    <h3>Abstract</h3>
     <p class="pub-abstract">Three studies investigated how readers interpret sentences with variable quantificational domains, for example, <i>The army was mostly in the capital</i>, where <i>mostly</i> may quantify over individuals or parts (<i>Most of the army was in the capital</i>) or over times (<i>The army was in the capital most of the time</i>). It is proposed that a general conceptual economy principle, No Extra Times, discourages the postulation of potentially unnecessary times, and thus favours the interpretation quantifying over parts. Disambiguating an ambiguously quantified sentence to a quantification over times interpretation was rated as less natural than disambiguating it to a quantification over parts interpretation (Experiment 1). In an interpretation questionnaire, sentences with similar quantificational variability were constructed so that both interpretations of the sentence would require postulating multiple times; this resulted in the elimination of the preference for a quantification over parts interpretation, suggesting the parts preference observed in Experiment 1 is not reducible to a lexical bias of the adverb <i>mostly</i> (Experiment 2). An eye movement recording study showed that, in the absence of prior evidence for multiple times, readers exhibit greater difficulty when reading material that forces a quantification over times interpretation than when reading material that allows a quantification over parts interpretation (Experiment 3). These experiments contribute to understanding readers’ default assumptions about the temporal properties of sentences, which is essential for understanding the selection of a domain for adverbial quantifiers and, more generally, for understanding how situational constraints influence sentence processing.<br><br></p>
     
 
@@ -839,12 +839,12 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading"></div>
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             
             
             <a href="/publication/#2">
-              Uncategorized
+              Journal article
             </a>
             
           </div>
@@ -860,7 +860,7 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading"></div>
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
           <div class="col-12 col-md-9"><em>Language and Cognitive Processes</em>, 28, 1519-1544</div>
         </div>
       </div>
@@ -1034,7 +1034,7 @@
   
   
   <div class="article-widget content-widget-hr">
-    <h3></h3>
+    <h3>Related</h3>
     <ul>
       
       <li><a href="/talk/2011_tuebingen_invite/">On selecting quantificational domains during sentence processing</a></li>
@@ -1097,13 +1097,13 @@
     
     <script>
       const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"","placeholder":"","results":""};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
-        'post': "",
-        'project': "",
-        'publication' : "",
-        'talk' : "",
-        'slides' : ""
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
         };
     </script>
     
@@ -1211,7 +1211,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title"></h5>
+        <h5 class="modal-title">Cite</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -1221,10 +1221,10 @@
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> 
+          <i class="fas fa-copy"></i> Copy
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> 
+          <i class="fas fa-download"></i> Download
         </a>
         <div id="modal-error"></div>
       </div>

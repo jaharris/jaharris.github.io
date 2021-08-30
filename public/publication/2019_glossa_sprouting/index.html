@@ -369,7 +369,7 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1></h1>
+          <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
           <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
@@ -378,7 +378,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="" autocapitalize="off"
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
         
       </div>
@@ -419,7 +419,7 @@
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="">
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fas fa-bars"></i></span>
     </button>
     
@@ -664,7 +664,7 @@
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
       <li class="nav-item">
-        <a class="nav-link js-search" href="#" aria-label=""><i class="fas fa-search" aria-hidden="true"></i></a>
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
       </li>
       
 
@@ -804,14 +804,14 @@
 
 
 <a class="btn btn-outline-primary my-1 mr-1" href="/files/papers/all/HarrisCarlson2019-Glossa.pdf" target="_blank" rel="noopener">
-  
+  PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
         data-filename="/publication/2019_glossa_sprouting/cite.bib">
-  
+  Cite
 </button>
 
 
@@ -846,7 +846,7 @@
   <div class="article-container">
 
     
-    <h3></h3>
+    <h3>Abstract</h3>
     <p class="pub-abstract">Clauses that are parallel in form and meaning show processing advantages in ellipsis and coordination structures (Frazier et al. 1984; Kehler 2000; Carlson 2002). However, the constructions that have been used to show a parallelism advantage do not always require a strong semantic relationship between clauses. We present two eye tracking while reading studies on focus-sensitive coordination structures, an understudied form of ellipsis which requires the generation of a contextually salient semantic relation or scale between conjuncts. However, when the remnant of ellipsis lacks an overt correlate in the matrix clause and must be &lsquo;sprouted&rsquo; in the ellipsis site, the relation between clauses is simplified to entailment. Instead of facilitation for sentences with an entailment relation between clauses, our online processing results suggest that violating parallelism is costly, even when doing so could ease the semantic relations required for interpretation.</p>
     
 
@@ -855,12 +855,12 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading"></div>
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             
             
             <a href="/publication/#2">
-              Uncategorized
+              Journal article
             </a>
             
           </div>
@@ -876,7 +876,7 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading"></div>
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
           <div class="col-12 col-md-9"><em>Glossa: A journal of general linguistics</em></div>
         </div>
       </div>
@@ -1045,7 +1045,7 @@
   
   
   <div class="article-widget content-widget-hr">
-    <h3></h3>
+    <h3>Related</h3>
     <ul>
       
       <li><a href="/talk/2016_cuny/">Correlate not optional: PP sprouting in much less ellipsis</a></li>
@@ -1110,13 +1110,13 @@
     
     <script>
       const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"","placeholder":"","results":""};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
-        'post': "",
-        'project': "",
-        'publication' : "",
-        'talk' : "",
-        'slides' : ""
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
         };
     </script>
     
@@ -1224,7 +1224,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title"></h5>
+        <h5 class="modal-title">Cite</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -1234,10 +1234,10 @@
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> 
+          <i class="fas fa-copy"></i> Copy
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> 
+          <i class="fas fa-download"></i> Download
         </a>
         <div id="modal-error"></div>
       </div>
