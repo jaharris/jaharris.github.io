@@ -40,7 +40,7 @@ weight = 60
 <br><br>
 
 
-###  Spring 2022. Language in Context [Ling 7]
+###  Spring 2022. Language in Context [Ling 8]
 
 #### Course description:
 > TBA
@@ -67,7 +67,7 @@ weight = 60
 ## Courses taught at UCLA
 
 #### Undergraduate
-- LING 7: Language in Context
+- LING 8: Language in Context
 - LING 120C: Semantics I
 - LING 132: Language Processing
 
