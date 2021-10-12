@@ -17,7 +17,7 @@ authors = ["Jesse A. Harris", "Katy Carlson"]
 # 5 = Book
 # 6 = Book section
 publication_types = ["2"]
-featured = true
+featured = false
 
 
 # Publication name and optional abbreviated version.
@@ -32,7 +32,7 @@ abstract = "Clauses that are parallel in form and meaning show processing advant
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -46,7 +46,7 @@ selected = true
 tags = ["Ellipsis", "parallelism", "focus-sensitive coordination", "sentence processing", "scalar meaning"]
 
 # Links (optional).
-# url_pdf = "https://www.glossa-journal.org/articles/10.5334/gjgl.707/galley/722/download/"
+# url_pdf = ""
 url_pdf = "files/papers/all/HarrisCarlson2019-Glossa.pdf"
 # url_preprint = "files/papers/all/Harris_ICPhS2019.pdf"
 # url_code = "#"

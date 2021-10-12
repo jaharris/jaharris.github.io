@@ -23,15 +23,15 @@ publication = "*Glossa: A journal of general linguistics*"
 # publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = "Previous studies have shown that English speakers use a range of factors including locality, information structure, and semantic parallelism to interpret clausal ellipsis structures. Yet, the relative importance of each factor is currently underexplored. As cues to information structure and semantic parallelism are often implicit in English, we turned to Persian which marks information structure overtly via word order scrambling and uses the -rā morpheme to indicate definiteness/specificity on direct objects. To determine what strategies Persian speakers use to disambiguate clausal ellipsis, we conducted a naturalness rating study and sentence completion task on polarity stripping structures. Our results show that information structure and parallelism strongly influence correlate resolution in both tasks, but that a weaker preference for a local correlate emerges in scrambling in the sentence completion task. As these results diverge from those obtained in English studies, we speculate that the morphosyntactic properties of Persian constrain the strategies the processer uses in selecting a contrastive correlate and resolving ambiguity in stripping ellipsis."
+abstract = "Previous studies have shown that English speakers use a range of factors including locality, information structure, and semantic parallelism to interpret clausal ellipsis structures. Yet, the relative importance of each factor is currently underexplored. As cues to information structure and semantic parallelism are often implicit in English, we turned to Persian which marks information structure overtly via word order scrambling and uses the -rā morpheme to indicate definiteness/specificity on direct objects. To determine what strategies Persian speakers use to disambiguate clausal ellipsis, we conducted a naturalness rating study and sentence completion task on polarity stripping structures. Our results show that information structure and parallelism strongly influence correlate resolution in both tasks, but that a weaker preference for a local correlate emerges in scrambling in the sentence completion task. As these results diverge from those obtained in English studies, we speculate that the morphosyntactic properties of Persian constrain the strategies the processor uses in selecting a contrastive correlate and resolving ambiguity in stripping ellipsis."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
-featured = false
+selected = true
+featured = true
 
 
 # Projects (optional).
@@ -43,10 +43,10 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["reading", "misperception", "competition"]
+tags = ["ellipsis", "locality", "parallelism", "acceptability"]
 
 # Links (optional).
-# url_pdf = ""
+url_pdf = "https://www.glossa-journal.org/article/5881/galley/14824/download/"
 # url_preprint = "files/papers/all/JEP_Misperception_Preprint.pdf"
 # url_code = "#"
 # url_dataset = "#"
@@ -58,7 +58,7 @@ tags = ["reading", "misperception", "competition"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Publisher", url = ""}]
+url_custom = [{name = "Publisher", url = "https://www.glossa-journal.org/article/id/5881/"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

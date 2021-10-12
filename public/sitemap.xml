@@ -8,12 +8,17 @@
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/authors/</loc>
-    <lastmod>2021-08-30T09:18:39-07:00</lastmod>
+    <loc>https://jesseharris.netlify.app/tag/acceptability/</loc>
+    <lastmod>2021-08-30T08:58:54-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/tag/competition/</loc>
+    <loc>https://jesseharris.netlify.app/authors/</loc>
+    <lastmod>2021-09-20T18:01:11-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/tag/ellipsis/</loc>
     <lastmod>2021-08-30T08:58:54-07:00</lastmod>
   </url>
   
@@ -24,11 +29,16 @@
   
   <url>
     <loc>https://jesseharris.netlify.app/</loc>
-    <lastmod>2021-08-30T09:18:39-07:00</lastmod>
+    <lastmod>2021-09-20T18:01:11-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/tag/misperception/</loc>
+    <loc>https://jesseharris.netlify.app/tag/locality/</loc>
+    <lastmod>2021-08-30T08:58:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/tag/parallelism/</loc>
     <lastmod>2021-08-30T08:58:54-07:00</lastmod>
   </url>
   
@@ -39,11 +49,6 @@
   
   <url>
     <loc>https://jesseharris.netlify.app/publication_types/</loc>
-    <lastmod>2021-08-30T08:58:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/reading/</loc>
     <lastmod>2021-08-30T08:58:54-07:00</lastmod>
   </url>
   
@@ -94,6 +99,11 @@
   
   <url>
     <loc>https://jesseharris.netlify.app/tag/pupillometry/</loc>
+    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/tag/reading/</loc>
     <lastmod>2021-06-30T13:28:32-07:00</lastmod>
   </url>
   
@@ -198,12 +208,22 @@
   </url>
   
   <url>
+    <loc>https://jesseharris.netlify.app/tag/competition/</loc>
+    <lastmod>2021-01-08T23:36:14-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jesseharris.netlify.app/publication/2021_jep_misperception/</loc>
     <lastmod>2021-01-08T23:36:14-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jesseharris.netlify.app/author/ian-rigby/</loc>
+    <lastmod>2021-01-08T23:36:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jesseharris.netlify.app/tag/misperception/</loc>
     <lastmod>2021-01-08T23:36:14-08:00</lastmod>
   </url>
   
@@ -248,22 +268,12 @@
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/tag/acceptability/</loc>
-    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jesseharris.netlify.app/author/adrian-brasoveanu/</loc>
     <lastmod>2020-10-13T10:06:18-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jesseharris.netlify.app/talk/2020_amlap_vpe/</loc>
-    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/ellipsis/</loc>
     <lastmod>2020-10-13T10:06:18-07:00</lastmod>
   </url>
   
@@ -283,17 +293,7 @@
   </url>
   
   <url>
-    <loc>https://jesseharris.netlify.app/tag/locality/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jesseharris.netlify.app/talk/2020_cuny_vpe/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/parallelism/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
   </url>
   
@@ -1462,7 +1462,7 @@
   
   <url>
     <loc>https://jesseharris.netlify.app/author/jesse-harris/</loc>
-    <lastmod>2021-08-30T09:18:39-07:00</lastmod>
+    <lastmod>2021-09-20T18:01:11-07:00</lastmod>
   </url>
   
   <url>
