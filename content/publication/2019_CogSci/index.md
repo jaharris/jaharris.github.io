@@ -44,9 +44,8 @@ selected = true
 tags = ["relative clause", "prosody", "pupillometry"]
 
 # Links (optional).
-# url_pdf = "https://jesseharris.netlify.com/files/papers/all/HarrisLawnKaps2019-CogSciPupil.pdf"
-url_pdf = "files/papers/allHarrisLawnKaps2019_CogSci/pdf"
-# url_preprint = "files/papers/all/Harris_ICPhS2019.pdf"
+url_pdf = "files/papers/all/HarrisLawnKaps2019_CogSci.pdf"
+# url_preprint = ""
 # url_code = "#"
 # url_dataset = "#"
 # url_project = "#"
