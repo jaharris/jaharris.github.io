@@ -1,7 +1,7 @@
 +++
-title = "Prosodic infiltration"
-publishDate = 2022-01-20T00:00:00  # Schedule page publish date.
-date = 2022-03-24T00:00:00  # Talk date
+title = "Perspective management and de lingua commitments in transparent free relatives"
+publishDate = 2021-11-01T01:00:00  # Schedule page publish date.
+date = 2021-12-13T01:00:00  # Talk date
 # date = 2018-11-03
 draft = false
 
@@ -18,11 +18,11 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Conference on Human Sentence Processing"
-event_url = "https://babel.ucsc.edu/~hsp2022/"
+event = "Invited talk at the Collaborative Research Centre Prominence in Language, Discourse Referents as Perspectival Centers"
+event_url = ""
 
 # Location of event.
-location = "University of California, Santa Cruz"
+location = "University of Cologne"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -32,7 +32,7 @@ selected = false
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["Prosody"]
+projects = ["Perspective"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

@@ -1,13 +1,14 @@
 +++
-title = "Processing prosodic mismatch"
-date = 2021-10-20T00:00:00  # Schedule page publish date.
+title = "Parsing and prosodic mismatch: The view from pupillometry"
+publishDate = 2021-11-01T00:00:00  # Schedule page publish date.
+date = 2021-11-11T00:00:00  # Talk date
 # date = 2018-11-03
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 # time_start = 2021-05-15
-# time_start = 2030-06-01T13:00:00
+# time_start = 2021-11-11T14:00:00
 # time_end = 2030-06-01T15:00:00
 
 authors = ["Jesse A. Harris"]
@@ -17,7 +18,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Colloquium talk"
+event = "Invited colloquium talk"
 event_url = ""
 
 # Location of event.
