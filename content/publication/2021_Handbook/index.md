@@ -26,7 +26,7 @@ publication = "To appear in Grant Goodall (Ed.), *Cambridge Handbook of Experime
 # publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = "This chapter reviews the theoretical and conceptual issues central to acceptability judgment tasks, and related paradigms, at the syntax-semantics interface, and provides a broad overview of core results obtained from research in this domain. Challenges faced by studies in experimental semantics are distinct from those in experimental syntax, which at times re- quires different linking hypotheses, research questions, or experimental paradigms. However, the current state of affairs suggests that acceptability and other offline judgments will continue to contribute highly informative and profitable tools for exploration of phenomena at the syntax-semantics interface."
+abstract = "This chapter reviews the theoretical and conceptual issues central to acceptability judgment tasks, and related paradigms, at the syntax-semantics interface, and provides a broad overview of core results obtained from research in this domain. Challenges faced by studies in experimental semantics are distinct from those in experimental syntax, which at times requires different linking hypotheses, research questions, or experimental paradigms. However, the current state of affairs suggests that acceptability and other offline judgments will continue to contribute highly informative and profitable tools for exploration of phenomena at the syntax-semantics interface."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
