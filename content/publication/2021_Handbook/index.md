@@ -1,7 +1,7 @@
 +++
 title = "Acceptability Judgments at the Syntax­-Semantics Interface"
 # date = 2013-07-01T00:00:00
-date = 2021-01-01
+date = 2021-12-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Jesse A. Harris"]`.
@@ -18,7 +18,8 @@ authors = ["Jesse A. Harris"]
 # 6 = Book section
 publication_types = ["6"]
 
-# featured = true
+# Is this a selected publication? (true/false)
+featured = true
 
 # Publication name and optional abbreviated version.
 publication = "To appear in Grant Goodall (Ed.), *Cambridge Handbook of Experimental Syntax*"
