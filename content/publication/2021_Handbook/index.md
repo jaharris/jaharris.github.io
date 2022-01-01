@@ -22,7 +22,7 @@ publication_types = ["6"]
 featured = true
 
 # Publication name and optional abbreviated version.
-publication = "To appear in Grant Goodall (Ed.), *Cambridge Handbook of Experimental Syntax*"
+publication = "In: Grant Goodall (Ed.), *Cambridge Handbook of Experimental Syntax*"
 # publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
