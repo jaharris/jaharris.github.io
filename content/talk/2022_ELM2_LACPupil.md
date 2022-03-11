@@ -1,7 +1,9 @@
 +++
-title = "Transparent free relatives and commitments de lingua"
-publishDate = 2022-01-20T00:00:00  # Schedule page publish date.
-date = 2022-06-10T00:00:00  # Talk date
+title = "The enduring effects of default focus in let alone ellipsis: Evidence from pupillometry"
+# Schedule page publish date
+date = 2022-05-18T00:00:00
+# Schedule page publish date
+publishDate = 2022-03-07T00:00:00
 # date = 2018-11-03
 draft = false
 
@@ -18,11 +20,11 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Semantics and Linguistic Theory"
+event = "Experiments in Linguistic Meaning 2"
 event_url = ""
 
 # Location of event.
-location = "Mexico City"
+location = "University of Pennsylvania"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -32,7 +34,7 @@ selected = false
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["Perspective"]
+projects = ["ellipsis", "pupillometry"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
