@@ -1,5 +1,5 @@
 +++
-title = "Parsing and prosodic mismatch: The view from pupillometry"
+title = "Aligning prosody and syntax in parsing: The view from pupillometry"
 publishDate = 2022-01-20T00:00:00  # Schedule page publish date.
 date = 2022-03-24T00:00:00  # Talk date
 # date = 2018-11-03
