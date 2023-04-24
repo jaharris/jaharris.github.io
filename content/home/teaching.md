@@ -16,45 +16,54 @@ weight = 60
 # This is an example of using the *custom* widget to create your own homepage section.
 
 +++
-## Courses for 2021-2022
+## Courses for 2022-2023
 
-###  Winter 2022. Language Processing [Ling 132]
+###  Winter 2023. Language Processing [Ling 132]
 
 #### Course description:
 > Psycholinguistics is a relatively young, but rapidly growing, discipline that addresses how language might be realized as a component within the general cognitive system, and how language is comprehended, produced, and represented in memory. It is an interdisciplinary effort, drawing on research and techniques from linguistics, psychology, neuroscience, and computer science, and utilizes a variety of methods to investigate the underlying representations and mechanisms that are involved in linguistic computations.
 
 > This course concentrates on (i) uncovering and characterizing the subsystems that account for linguistic performance, (ii) exploring how such subsystems interact, and whether they interact within a fixed order, and (iii) investigating how the major linguistic subsystems relate to more general cognitive mechanisms.
 
-- [CCLE site](https://ccle.ucla.edu/course/view/19F-LING132-1)
-- [Syllabus](https://ccle.ucla.edu/pluginfile.php/2943309/local_ucla_syllabus/syllabus/61509/LING132_Syllabus_F19%20(Last%20modified%2019-09-17--21-21).pdf)
-
 
 <br>
 
-###   Winter 2022. Linguistic Processing [Ling 213C]
+### Winter 2023. Pragmatic Theory [Ling 207]
 
-#### Course description:
-> The core areas of psycholinguistics include language acquisition, language perception, language production, language comprehension, language and the brain, and language disorders and damage. This course emphasizes depth over breadth, and so we will not delve into all of these topics. Instead, we will be focusing on just two areas of research: mental representations and processing of lexical units, and sentence comprehension. We start with the basics of lexical access and decision, exploring various models of the processes involved. We then move to an overview of classic models of sentence processing which vary according to a number of related properties such as the modularity/interactionism of information channels and the serialism/parallelism of processing. Finally, we discuss several topics in current and classical language research, including the filler-gap dependencies, semantic processing, and sentence production.
+#### Course description
+> Pragmatics explores the systematic relation between what was intended and what was literally said by
+examining what inferences can be made from a sentence meaning in a particular context of utterance,
+given what is known about the speaker and the participants in the discourse. Once treated as a virtual
+unstructured wasteland of non-linguistic information, pragmatics is reaching a new maturity as it
+more closely interfaces with linguistic subsystems.
+Pragmatic research addresses a notoriously broad domain. The course design emphasizes the theoretical components of pragmatics research, focusing on topics that highlight the internal structure of pragmatic mechanisms or the ways in which pragmatic information is embedded within the architecture of the language faculty. It also introduces methods and ongoing developments in experimental pragmatics, an area that has become a driving force in shaping research interests in the field.
+
+> This course starts by reviewing the classic cooperative foundations of pragmatic theory initiated by Grice, and then highlights recent advances in the field, concentrating on numerous major topics of current interest, including (a) Pragmatic theory and implicatures since Grice 1975, (b) Projection and not-at-issue content, (c) Speech acts, common ground, and speaker commitments, and (d) Choice points in formalizing context, discourse, and speaker, among others topics.
 
 
 <br><br>
 
 
-###  Spring 2022. Language in Context [Ling 8]
+
+###  Spring 2023. Language Processing [Ling 132]
 
 #### Course description:
-> TBA
+> Psycholinguistics is a relatively young, but rapidly growing, discipline that addresses how language might be realized as a component within the general cognitive system, and how language is comprehended, produced, and represented in memory. It is an interdisciplinary effort, drawing on research and techniques from linguistics, psychology, neuroscience, and computer science, and utilizes a variety of methods to investigate the underlying representations and mechanisms that are involved in linguistic computations.
 
-
+> This course concentrates on (i) uncovering and characterizing the subsystems that account for linguistic performance, (ii) exploring how such subsystems interact, and whether they interact within a fixed order, and (iii) investigating how the major linguistic subsystems relate to more general cognitive mechanisms.
 
 <br>
 
-###   Spring 2022. Research Methods [Ling 239]
+### Spring 2023. Proseminar on Prosody and Parser. [Ling 254]
+### Co-taught with Sun-Ah Jun. 
 
 #### Course description:
-> Linguistic research has always placed a high premium on data in various forms: native-speaker introspection, fieldwork, corpora, judgment studies, reaction time studies, eye movements, and electrophysiology, to name a few. As the empirical base of linguistics had evolved, community- wide standards for data collection and analysis have become increasingly important. This course provides a practical, hands-on introduction to research design and analysis, with an emphasis on experimental data collection, study design, and proper statistical analysis. Assuming no programming, statistics, or experimental background, the course will provide you with the necessary conceptual and practical tools for carrying out experimental research.
 
-> By the end of the course, you should be able to design an experiment that uses an appropriate method and that minimizes confounds, for which you would be able to apply appropriate statistical analysis techniques. Students will work in groups to design an experiment or corpus study to be presented at the end of the course, on an issue relevant to their own research interests.
+> The proseminar course addresses several major themes in the current literature on the use of prosody in sentence processing, including (i) the influence of intonational phrasing on syntactic parsing, ambiguity resolution, and predictive processing, (ii) evidence for prosodic and metrical structure in silent reading, (iii) evidence for individual and cross-linguistic differences, and (iv) the calculation and incorporation of contextually salient focus alternatives.
+
+> Our general aim for this course is not to present an entirely crystalized view of how prosodic information has been addressed in sentence processing research, but instead to pose and evaluate conceptual choice points that have been instrumental in situating how prosodic and syntactic representations could be integrated together, given current proposals regarding how language processing routines are organized within a more general cognitive architecture. We will invite open-ended discussion on how complex linguistic mappings and the resulting representations might be integrated into existing models of sentence processing. Participants will be encouraged to consider what kinds of information the comprehender may have to prioritize during processing and the extent to which the interpretation of such information may be affected by broader contextual factors, such as speaker intention, as well as how prosodic grouping may interface with other cognitive representations, such as memory. Finally, we will introduce and evaluate various paradigms used in prosodic processing research, including offline questionnaires, priming, silent reading, visual world, and electroencephalography methods.
+
+
 
 
 <br><br>
