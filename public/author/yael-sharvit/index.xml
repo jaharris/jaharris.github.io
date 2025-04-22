@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yael Sharvit | JESSE HARRIS</title>
+    <link>https://jesseharris.netlify.app/author/yael-sharvit/</link>
+      <atom:link href="https://jesseharris.netlify.app/author/yael-sharvit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yael Sharvit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jesse Harris</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jesseharris.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Yael Sharvit</title>
+      <link>https://jesseharris.netlify.app/author/yael-sharvit/</link>
+    </image>
+    
+    <item>
+      <title>Alternatives in Grammar and Cognition</title>
+      <link>https://jesseharris.netlify.app/publication/2025_alts_book/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://jesseharris.netlify.app/publication/2025_alts_book/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

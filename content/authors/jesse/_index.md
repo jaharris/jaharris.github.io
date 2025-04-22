@@ -70,7 +70,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/s/itbulpdm4bxy5z5/JesseHarris_CV.pdf?dl=0
+  link: https://www.dropbox.com/scl/fi/m1cww9cm0fwuwxqpcomxw/JesseHarris_CV.pdf?rlkey=untcon48osb9pdlkbyv47lasf&st=cyz7ss9h&dl=0
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

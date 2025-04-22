@@ -1,1563 +1,984 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication-type/2/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/authors/</loc>
-    <lastmod>2023-04-23T22:07:10-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/concessives/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/context/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/eye-tracking/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2022_concess/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/jesse-a.-harris/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/</loc>
-    <lastmod>2023-04-23T22:07:10-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/prediction/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication_types/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/stephanie-rich/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tags/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication-type/1/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/focus-sensitive-ellipsis/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/negation/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2023_wccfl/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/pupillometry/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/sentence-processing/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2022_elm2/</loc>
-    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2022_salt_invite/</loc>
-    <lastmod>2022-03-11T10:38:29-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2022_elm2_lacpupil/</loc>
-    <lastmod>2022-03-11T10:38:29-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2022_wcffl_lacpupil/</loc>
-    <lastmod>2022-03-11T10:38:29-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2021_hsp_invite/</loc>
-    <lastmod>2022-03-11T10:41:21-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2022_commit22/</loc>
-    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2022_lsa/</loc>
-    <lastmod>2021-11-04T08:11:23-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2021_cologne_perspective/</loc>
-    <lastmod>2021-11-04T08:11:23-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/attachment/</loc>
-    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/chie-nakamura/</loc>
-    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2022_prosodyadapt/</loc>
-    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/prosody/</loc>
-    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/sun-ah-jun/</loc>
-    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/visual-world/</loc>
-    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication-type/6/</loc>
-    <lastmod>2021-12-31T20:24:25-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2021_handbook/</loc>
-    <lastmod>2021-12-31T20:24:25-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/semantics/</loc>
-    <lastmod>2021-12-31T20:24:25-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2021_ku_colloq/</loc>
-    <lastmod>2021-11-04T08:11:23-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/acceptability/</loc>
-    <lastmod>2021-10-11T22:30:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/ellipsis/</loc>
-    <lastmod>2021-10-11T22:30:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/locality/</loc>
-    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/parallelism/</loc>
-    <lastmod>2021-10-11T22:30:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2021_persianellipsis_glossa/</loc>
-    <lastmod>2021-10-11T22:30:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/vahideh-rasekhi/</loc>
-    <lastmod>2021-10-11T22:30:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/amanda-rysling/</loc>
-    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/canaan-breiss/</loc>
-    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/corpus/</loc>
-    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/eye-movements/</loc>
-    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2021_cogsci_larcid/</loc>
-    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/metrical-structure/</loc>
-    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/reading/</loc>
-    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/stress-clash/</loc>
-    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2021_cogsci_stressclash/</loc>
-    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2021_cogsci_unexpectedguests/</loc>
-    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/individual-differences/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/lexical-prediction/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/lexical-retrieval/</loc>
-    <lastmod>2021-04-20T18:04:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2021_cogsci_larc-id/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/metrical-prediction/</loc>
-    <lastmod>2021-04-20T18:04:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/poster/</loc>
-    <lastmod>2021-04-20T18:04:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2021_cogsci_stressclash/</loc>
-    <lastmod>2021-04-20T18:04:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2021_cogsci_expect/</loc>
-    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/discourse/</loc>
-    <lastmod>2021-04-09T17:46:06-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2021_frontiers_perspective/</loc>
-    <lastmod>2021-04-09T17:46:06-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/free-indirect-discourse/</loc>
-    <lastmod>2021-04-09T17:46:06-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/perspective/</loc>
-    <lastmod>2021-04-09T17:46:06-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/tense/</loc>
-    <lastmod>2021-04-09T17:46:06-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2021_bucld45/</loc>
-    <lastmod>2021-03-08T15:57:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/competition/</loc>
-    <lastmod>2021-01-08T23:36:14-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2021_jep_misperception/</loc>
-    <lastmod>2021-01-08T23:36:14-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/ian-rigby/</loc>
-    <lastmod>2021-01-08T23:36:14-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/misperception/</loc>
-    <lastmod>2021-01-08T23:36:14-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/contrast/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2020_bucld45/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/adrian-brasoveanu/</loc>
-    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2020_amlap_vpe/</loc>
-    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2020_speechprosody/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2020_speechprosody/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2020_cuny_persian/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2020_cuny_vpe/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/persian/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/stress-shift/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2020_cuny_stress/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/correlative/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2020_prediction/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/parsing/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/alexandra-lawn/</loc>
-    <lastmod>2021-10-25T13:58:20-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2020_romance/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/portuguese/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/retrieval/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/sluicing/</loc>
-    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/angelica-pan/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/interference/</loc>
-    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2020_camp3_persian/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/relative-clauses/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2020_camp3_rc/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2019_glossa_sprouting/</loc>
-    <lastmod>2021-10-11T22:30:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/focus-sensitive-coordination/</loc>
-    <lastmod>2021-10-11T22:30:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/katy-carlson/</loc>
-    <lastmod>2021-10-11T22:30:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/scalar-meaning/</loc>
-    <lastmod>2021-10-11T22:30:24-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/conjunction/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/events/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/natasha-korotkova/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/phonemic-restoration/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2018_cls_russian/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/russian/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2018_sluicing/</loc>
-    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2019_cogsci/</loc>
-    <lastmod>2021-10-25T13:58:20-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/marju-kaps/</loc>
-    <lastmod>2021-10-25T13:58:20-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/relative-clause/</loc>
-    <lastmod>2021-10-25T13:58:20-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2019_icphs_adapt/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2019_icphs_pupil/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/adaptation/</loc>
-    <lastmod>2021-03-08T15:52:14-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2019_bucld/</loc>
-    <lastmod>2021-03-08T15:52:14-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/visual-world-paradigm/</loc>
-    <lastmod>2021-03-08T15:52:14-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/yuki-hirose/</loc>
-    <lastmod>2021-03-08T15:52:14-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/alignment/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/ambiguity-resolution/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/bethany-sturman/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/contrastive-accent/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/correlatives/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2019_cuny_talk_appos/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2019_cuny_poster_tfr/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2019_pipp_either/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2019_lsa_persian/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2019_cogsci/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/john-gluckman/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2019_icphs_adapt/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2019_cuny_poster_beliefs/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/memory/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2019_epc_pupil/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/parentheticals/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2019_cuny_poster_pupil/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/quotation/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2019_lsa_strictsloppy/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2019_cuny_poster_port/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/strict-sloppy/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/talk/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2019_pipp_both/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2019_cuny_poster_both/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/underspecification/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2019_icphs_pupil/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/focus/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2018_ls/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2018_lyn_invite/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2018_lcn/</loc>
-    <lastmod>2020-09-20T12:50:55-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/coercion/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2018_cuny_poster/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/corpora/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2018_cuny_talk/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2018_cuny_talk2/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/event-processing/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/implicit-prosody/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2018_cls/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2018_etap/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2017_menorca/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2017_usc_invite/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2017_cuny_prosodyrepair/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2017_cuny_predict/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2017_cuny_either/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2017_cuny_sluiceselect/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2017_cuny_strict/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/thematic-roles/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2017_lsa/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/experimental-pragmatics/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/free-relatives/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2018_cuny_poster4/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2018_bucld/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2018_cuny_poster3/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2018_cuny_poster2/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/adam-j.-royer/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2016_iph/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2016_keep/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2016_letalone/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/prosodic-weight/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2016_sarajevo/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/discourse-processing/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2016_detec/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2016_speechprosody/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/post/overview/</loc>
-    <lastmod>2021-01-09T20:50:18-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2016_glow_invite/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2016_cuny/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/sprouting/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/phoneme-restoration/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2016_russianevents/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/serial-verbs/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2015_umass_invite/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2015_sdsu_invite/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2015_sluicing/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2015_brazil/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2015_ucsd_invite/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2015_cuny_focus/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2015_cuny_broadest/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2015_cuny_sluicing/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/lexical-decision/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2014_psychonomics/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/lindsey-meyer/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/mouse-tracking/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2014_cusp/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/attitude-reports/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2014_ampra_biscuit/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/conditionals/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/danielle-holstein/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2014_ampra_focus/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/speech-acts/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2014_amlap_sprouting/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2014_amlap_focus/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2014_amlap_semdial/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/obviative/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2014_else/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/joel-fishbein/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2014_kafka/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/polysemy/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/spr/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2014_sembabble_invite/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2014_cuny_focus/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2014_cuny_fid/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2014_cuny_letalone/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2014_tfr/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2014_ucla_invite/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/local-coherence/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/lyn-frazier/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/root-clauses/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2014_standing/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/interjection/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2013_what/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/pragmatics/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2013_what/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/extraction/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/pseudocoordination/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2009_cuny_pseudo/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2013_cuny_sluicing/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2013_cuny_kafka/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2013_ucsc_invite/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/metonymy/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2013_cuny_letalone/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2013_lsa_kafka/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2012_cusp_what/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2012_erp_kafka/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/crowdsourcing/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2012_usc_invite/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/methods/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/questionnaires/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2012_amlap_sluicing/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/domain-adjectives/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2012_wccfl_domain/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/adjectives/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/adverbs/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/author/frazier-lyn/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2012_domain/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/publication/2012_most/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/quantification/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/tag/semantic-processing/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2011_cuny_qve/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2011_tuebingen_invite/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2011_pomona_invite/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://jesseharris.netlify.app/publication-type/5/</loc>
-    <lastmod>2020-09-18T13:39:11-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication-type/6/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/alternatives/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2025_alts_book/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/authors/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/christian-muxica/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2025_altschapter/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/focus/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/jesse-a.-harris/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/nicole-gotzner/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication_types/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/richard-breheny/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tags/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/yael-sharvit/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication-type/1/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/perspective/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/pronouns/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/semantics/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/stefan-hinterwimmer/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2024_sub/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2024_elm3/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2024_cogsci/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/individual-differences/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/maria-lialiou/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/martine-grice/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/petra-b.-schumacher/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/prosody/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/pupillometry/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication-type/2/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/concessives/</loc>
+    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/context/</loc>
+    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/eye-tracking/</loc>
+    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2022_concess/</loc>
+    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/prediction/</loc>
+    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/stephanie-rich/</loc>
+    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/focus-sensitive-ellipsis/</loc>
+    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/negation/</loc>
+    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2023_wccfl/</loc>
+    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/sentence-processing/</loc>
+    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2022_elm2/</loc>
+    <lastmod>2023-04-22T11:41:54-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2022_salt_invite/</loc>
+    <lastmod>2022-03-11T10:38:29-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2022_elm2_lacpupil/</loc>
+    <lastmod>2022-03-11T10:38:29-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2022_wcffl_lacpupil/</loc>
+    <lastmod>2022-03-11T10:38:29-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2021_hsp_invite/</loc>
+    <lastmod>2022-03-11T10:41:21-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2022_commit22/</loc>
+    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2022_lsa/</loc>
+    <lastmod>2021-11-04T08:11:23-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2021_cologne_perspective/</loc>
+    <lastmod>2021-11-04T08:11:23-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/attachment/</loc>
+    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/chie-nakamura/</loc>
+    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2022_prosodyadapt/</loc>
+    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/sun-ah-jun/</loc>
+    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/visual-world/</loc>
+    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2021_handbook/</loc>
+    <lastmod>2021-12-31T20:24:25-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2021_ku_colloq/</loc>
+    <lastmod>2021-11-04T08:11:23-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/acceptability/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/ellipsis/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/locality/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/parallelism/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2021_persianellipsis_glossa/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/vahideh-rasekhi/</loc>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/amanda-rysling/</loc>
+    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/canaan-breiss/</loc>
+    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/corpus/</loc>
+    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/eye-movements/</loc>
+    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2021_cogsci_larcid/</loc>
+    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/metrical-structure/</loc>
+    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/reading/</loc>
+    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/stress-clash/</loc>
+    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2021_cogsci_stressclash/</loc>
+    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2021_cogsci_unexpectedguests/</loc>
+    <lastmod>2021-06-30T13:28:32-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/lexical-prediction/</loc>
+    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/lexical-retrieval/</loc>
+    <lastmod>2021-04-20T18:04:51-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2021_cogsci_larc-id/</loc>
+    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/metrical-prediction/</loc>
+    <lastmod>2021-04-20T18:04:51-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/poster/</loc>
+    <lastmod>2021-04-20T18:04:51-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2021_cogsci_stressclash/</loc>
+    <lastmod>2021-04-20T18:04:51-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2021_cogsci_expect/</loc>
+    <lastmod>2021-04-20T17:49:35-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/discourse/</loc>
+    <lastmod>2021-04-09T17:46:06-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2021_frontiers_perspective/</loc>
+    <lastmod>2021-04-09T17:46:06-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/free-indirect-discourse/</loc>
+    <lastmod>2021-04-09T17:46:06-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/tense/</loc>
+    <lastmod>2021-04-09T17:46:06-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2021_bucld45/</loc>
+    <lastmod>2021-03-08T15:57:12-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/competition/</loc>
+    <lastmod>2021-01-08T23:36:14-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2021_jep_misperception/</loc>
+    <lastmod>2021-01-08T23:36:14-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/ian-rigby/</loc>
+    <lastmod>2021-01-08T23:36:14-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/misperception/</loc>
+    <lastmod>2021-01-08T23:36:14-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/contrast/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2020_bucld45/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/adrian-brasoveanu/</loc>
+    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2020_amlap_vpe/</loc>
+    <lastmod>2020-10-13T10:06:18-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2020_speechprosody/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2020_speechprosody/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2020_cuny_persian/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2020_cuny_vpe/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/persian/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/stress-shift/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2020_cuny_stress/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/correlative/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2020_prediction/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/parsing/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/alexandra-lawn/</loc>
+    <lastmod>2021-10-25T13:58:20-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2020_romance/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/portuguese/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/retrieval/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/sluicing/</loc>
+    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/angelica-pan/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/interference/</loc>
+    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2020_camp3_persian/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/relative-clauses/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2020_camp3_rc/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2019_glossa_sprouting/</loc>
+    <lastmod>2021-10-11T22:30:24-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/focus-sensitive-coordination/</loc>
+    <lastmod>2021-10-11T22:30:24-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/katy-carlson/</loc>
+    <lastmod>2021-10-11T22:30:24-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/scalar-meaning/</loc>
+    <lastmod>2021-10-11T22:30:24-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/conjunction/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/events/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/natasha-korotkova/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/phonemic-restoration/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2018_cls_russian/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/russian/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2018_sluicing/</loc>
+    <lastmod>2021-12-27T09:42:05-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2019_cogsci/</loc>
+    <lastmod>2021-10-25T13:58:20-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/marju-kaps/</loc>
+    <lastmod>2021-10-25T13:58:20-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/relative-clause/</loc>
+    <lastmod>2021-10-25T13:58:20-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2019_icphs_adapt/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2019_icphs_pupil/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/adaptation/</loc>
+    <lastmod>2021-03-08T15:52:14-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2019_bucld/</loc>
+    <lastmod>2021-03-08T15:52:14-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/visual-world-paradigm/</loc>
+    <lastmod>2021-03-08T15:52:14-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/yuki-hirose/</loc>
+    <lastmod>2021-03-08T15:52:14-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/alignment/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/ambiguity-resolution/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/bethany-sturman/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/contrastive-accent/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/correlatives/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2019_cuny_talk_appos/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2019_cuny_poster_tfr/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2019_pipp_either/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2019_lsa_persian/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2019_cogsci/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/john-gluckman/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2019_icphs_adapt/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2019_cuny_poster_beliefs/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/memory/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2019_epc_pupil/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/parentheticals/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2019_cuny_poster_pupil/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/quotation/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2019_lsa_strictsloppy/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2019_cuny_poster_port/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/strict-sloppy/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/talk/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2019_pipp_both/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2019_cuny_poster_both/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/underspecification/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2019_icphs_pupil/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2018_ls/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2018_lyn_invite/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2018_lcn/</loc>
+    <lastmod>2020-09-20T12:50:55-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/coercion/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2018_cuny_poster/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/corpora/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2018_cuny_talk/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2018_cuny_talk2/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/event-processing/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/implicit-prosody/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2018_cls/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2018_etap/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2017_menorca/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2017_usc_invite/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2017_cuny_prosodyrepair/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2017_cuny_predict/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2017_cuny_either/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2017_cuny_sluiceselect/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2017_cuny_strict/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/thematic-roles/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2017_lsa/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/experimental-pragmatics/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/free-relatives/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2018_cuny_poster4/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2018_bucld/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2018_cuny_poster3/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2018_cuny_poster2/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/adam-j.-royer/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2016_iph/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2016_keep/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2016_letalone/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/prosodic-weight/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2016_sarajevo/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/discourse-processing/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2016_detec/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2016_speechprosody/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/post/overview/</loc>
+    <lastmod>2021-01-09T20:50:18-08:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2016_glow_invite/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2016_cuny/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/sprouting/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/phoneme-restoration/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2016_russianevents/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/serial-verbs/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2015_umass_invite/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2015_sdsu_invite/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2015_sluicing/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2015_brazil/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2015_ucsd_invite/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2015_cuny_focus/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2015_cuny_broadest/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2015_cuny_sluicing/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/lexical-decision/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2014_psychonomics/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/lindsey-meyer/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/mouse-tracking/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2014_cusp/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/attitude-reports/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2014_ampra_biscuit/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/conditionals/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/danielle-holstein/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2014_ampra_focus/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/speech-acts/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2014_amlap_sprouting/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2014_amlap_focus/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2014_amlap_semdial/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/obviative/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2014_else/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/joel-fishbein/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2014_kafka/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/polysemy/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/spr/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2014_sembabble_invite/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2014_cuny_focus/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2014_cuny_fid/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2014_cuny_letalone/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2014_tfr/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2014_ucla_invite/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/local-coherence/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/lyn-frazier/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/root-clauses/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2014_standing/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/interjection/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2013_what/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/pragmatics/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2013_what/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/extraction/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/pseudocoordination/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2009_cuny_pseudo/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2013_cuny_sluicing/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2013_cuny_kafka/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2013_ucsc_invite/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/metonymy/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2013_cuny_letalone/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2013_lsa_kafka/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2012_cusp_what/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2012_erp_kafka/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/crowdsourcing/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2012_usc_invite/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/methods/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/questionnaires/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2012_amlap_sluicing/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/domain-adjectives/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2012_wccfl_domain/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/adjectives/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/adverbs/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/author/frazier-lyn/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2012_domain/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/publication/2012_most/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/quantification/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/tag/semantic-processing/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2011_cuny_qve/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2011_tuebingen_invite/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2011_pomona_invite/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/appositives/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/christopher-potts/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/collected-papers/</loc>
     <lastmod>2020-09-18T13:39:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/commitments/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/coordination/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/expressives/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/publication/2011_coord/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/islands/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/margaret-grant/</loc>
     <lastmod>2020-09-18T13:39:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/publication/2011_piping/</loc>
     <lastmod>2020-09-18T13:39:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/pied-piping/</loc>
     <lastmod>2020-09-18T13:39:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/publication/2011_appos/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/processing/</loc>
     <lastmod>2020-09-18T13:39:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/psycholinguistics/</loc>
     <lastmod>2020-09-18T13:39:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/questionnaire/</loc>
     <lastmod>2020-09-18T13:39:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/seth-cable/</loc>
     <lastmod>2020-09-18T13:39:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/syntax/</loc>
     <lastmod>2020-09-18T13:39:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/publication/2011_psych_umop/</loc>
     <lastmod>2020-09-18T13:39:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/talk/2010_pepa/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/talk/2011_pepa/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/publication/2010_lnp/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/talk/2010_cls_extraction/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/publication/2009_epithets/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/maria-biezma/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/publication/2009_prag_umop/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/brian-mcelree/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/concealed-questions/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/liina-pylkkanen/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/meg/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/neurolinguistics/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/publication/2008_cqrc/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/steven-frisson/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/publication/2008_cq/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/talk/2008_wccfl/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/maribel-romero/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/nlp/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jesseharris.netlify.app/talk/2007_questions/</loc>
-    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/questions/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://jesseharris.netlify.app/talk/2007_questions/</loc>
+    <lastmod>2020-09-12T09:38:11-07:00</lastmod>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/compositionality/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/talk/2006_cuny_cqs/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/andrea-martin/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/gregory-murphy/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/jasmine-francis/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/jesse-harris/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/rudolfo-llinas/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/talk/2005_amf/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/associative-word-learning/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/tag/computation/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/terry-regier/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/talk/2002_cls_origin/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/charles-clifton-jr./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/jesse-harris/</loc>
-    <lastmod>2023-04-23T22:07:10-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2025-04-21T21:51:43-07:00</lastmod>
+  </url><url>
     <loc>https://jesseharris.netlify.app/author/nelson-bighetti/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/post/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/publication/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jesseharris.netlify.app/talk/</loc>
     <lastmod>2020-09-12T09:38:11-07:00</lastmod>
   </url>
-  
 </urlset>
