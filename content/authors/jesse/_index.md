@@ -92,5 +92,3 @@ I am an organizer for the California Meeting on Psycholinguistics (CAMP), and ho
 As a person who stutters, I'm proud to serve on the Board of Directors of the [Myspeech](https://myspeechapp.org/), a non-profit dedicated to facilitating access to high-quality, client-centered speech therapy to people in underserved communities, as well as providing resources on disability rights for students who stutter and education for speech-language pathologists in training.
 
 Before UCLA, I was an assistant professor at [Pomona College](https://www.pomona.edu/), in the Department of [Linguistics & Cognitive Science](https://www.pomona.edu/academics/departments/linguistics-cognitive-science).
-
-Finally, I regularly participate in the Psycholinguistics / Neurolinguistics Seminar; the current schedule may be found [here](https://linguistics.ucla.edu/psy-sem-schedule/).

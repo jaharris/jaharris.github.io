@@ -30,9 +30,10 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
-featured = true
-
+# selected = true
+# featured = true
+selected = false
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
